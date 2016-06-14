@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: About
+  url: /#About
+  excerpt: About Phyloreferencing
+  image:
+
+- title: Products
+  url: /#Products
+  excerpt: Publications, software, ontologies, and other products
+  image:
+
+- title: Resources
+  url: /#Resources
+  excerpt: Partnerships, workshops, and other resources for phyloreferencing 
+  image:
+
+- title: People
+  url: /#People
+  excerpt: The people involved in Phyloreferencing
   image:
