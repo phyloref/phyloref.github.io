@@ -25,10 +25,11 @@ gems:
 
 
 # Site owner
-owner: phyloref
-  name: Phyloreferencing Project
-  email: admin@phyloref.org
-  twitter: http://twitter.com/phyloref
+owner:
+  name: "Phyloreferencing Project"
+  web: "http://phyloref.org"
+  email: "admin@phyloref.org"
+  twitter: phyloref
   google:
     ad-client:
     ad-slot:
