@@ -1,0 +1,32 @@
+---
+layout: base
+---
+
+    {% if page.image.feature %}
+    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+      <div class="wrap page-lead-content">
+        <h1>Phyloreferencing</h1>
+        <h2>Precise, portable and fully computable clade definitions.</h2>
+        <a href="https://github.com/phyloref" class="btn-inverse">View on GitHub</a>
+      </div><!-- /.page-lead-content -->
+    </div><!-- /.page-lead -->
+    {% endif %}
+
+    <div id="page-wrapper">
+
+      <div id="main" role="main">
+        <div class="wrap">
+          <div class="page-title">
+            <h1>{{ page.title }}</h1>
+            {% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
+          </div>
+          <div class="archive-wrap">
+            <div class="page-content">
+              {{ content }}
+            </div><!-- /.page-content -->
+          </div class="archive-wrap"><!-- /.archive-wrap -->
+        </div><!-- /.wrap -->
+      </div><!-- /#main -->
+
+      {% include footer.html %}
+    </div>
