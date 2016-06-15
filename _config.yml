@@ -63,3 +63,5 @@ exclude:
   - package.json
   - spec
   - tmp
+  - Dockerfile
+  - serve-local.sh
