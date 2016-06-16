@@ -4,11 +4,11 @@ sitemap: false
 
 /*
  *
- *  Skinny Bones Jekyll Starter
- *
+ *  Original: Skinny Bones Jekyll Starter
  *  Designer: Michael Rose
  *  Twitter: http://twitter.com/mmistakes
  *
+ *  Subsequently customized for this website.
 */
 
 @import "variables";
@@ -53,3 +53,25 @@ sitemap: false
    ========================================================================== */
 
 @import "layout";
+
+/*
+   Customizations
+   ========================================================================== */
+
+/* Don't show the sliding menu button _and_ the navigation menu. The
+   navigation menu disappears below $medium screen size, so let's make
+   the sliding menu button disappear at $medium and above screen
+   size. 
+*/
+.sliding-menu-button {
+    @include media($medium) {
+        display: none;
+    }
+}
+
+/* List items within the page content shouldn't be in a smaller font. */
+.page-content {
+    li {
+        @include font-size(18,10);
+    }
+}
