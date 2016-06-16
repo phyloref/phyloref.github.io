@@ -57,9 +57,17 @@ create classroom-ready teaching materials and curricula for training
 biology students in the theoretical underpinnings and practical
 applications of phylogenetic nomenclature.
 
-## Resources
+### Funding
 
-The original grant proposal for this proposal is available online: <cite>Cellinese, Nico; Lapp, Hilmar (2015): An Ontology-Based System for Querying Life in a Post-Taxonomic Age. figshare. <https://dx.doi.org/10.6084/m9.figshare.1401984></cite>
+<div style="float: right; max-width: 128px; margin-top:
+-10px;"><img src="http://www.nsf.gov/images/logos/nsf1.jpg"/></div>
+This project is funded by the US National Science Foundation through
+collaborative grants
+[DBI-1458484](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1458484)
+and
+[DBI-1458604](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1458604)
+to Hilmar Lapp (Duke University) and Nico Cellinese (University of
+Florida), respectively. The proposal text is available online: <cite>Cellinese, Nico; Lapp, Hilmar (2015): An Ontology-Based System for Querying Life in a Post-Taxonomic Age. figshare. <https://dx.doi.org/10.6084/m9.figshare.1401984></cite>
 
 ## People
 
