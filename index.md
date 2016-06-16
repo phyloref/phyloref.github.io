@@ -73,9 +73,9 @@ Florida), respectively. The proposal text is available online: <cite>Cellinese, 
 
 ### Project personnel
 
-* Nico Cellinese (PI, University of Florida)
-* Hilmar Lapp (PI, Duke University)
-* Gaurav Vaidya (Postdoc, University of Colorado at Boulder)
+* [Nico Cellinese](http://www.flmnh.ufl.edu/museum-voices/nico-cellinese/) (PI, University of Florida)
+* [Hilmar Lapp](http://orcid.org/0000-0001-9107-0714) (PI, Duke University)
+* [Gaurav Vaidya](http://www.ggvaidya.com) (Postdoc, University of Colorado at Boulder)
 
 ### Advisory Board
 
