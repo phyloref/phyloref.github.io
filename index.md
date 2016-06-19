@@ -75,7 +75,7 @@ Florida), respectively. The proposal text is available online: <cite>Cellinese, 
 
 * [Nico Cellinese](http://www.flmnh.ufl.edu/museum-voices/nico-cellinese/) (PI, University of Florida)
 * [Hilmar Lapp](http://orcid.org/0000-0001-9107-0714) (PI, Duke University)
-* [Gaurav Vaidya](http://www.ggvaidya.com) (Postdoc, University of Colorado at Boulder)
+* [Gaurav Vaidya](http://www.ggvaidya.com) (University of Florida)
 
 ### Advisory Board
 
