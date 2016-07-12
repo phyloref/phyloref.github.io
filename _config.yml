@@ -3,7 +3,7 @@
 title: "Phyloreferencing"
 description: "Website for the Phyloreferencing Project."
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: Phyloref-owl-teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
 feed:
