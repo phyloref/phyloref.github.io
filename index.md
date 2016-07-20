@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: Phyloref-owl-large.jpeg
+  feature: tol_9_19_2011-cropped-1600x800.jpg
 ---
 
 

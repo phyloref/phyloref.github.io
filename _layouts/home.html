@@ -3,11 +3,12 @@ layout: base
 ---
 
     {% if page.image.feature %}
-    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})"
       <div class="wrap page-lead-content">
-        <h1>Phyloreferencing</h1>
-        <h2>Precise, portable and fully computable clade definitions.</h2>
-        <a href="https://github.com/phyloref" class="btn-inverse">View on GitHub</a>
+        <div>
+          <img class="banner" src="{{ site.url }}/images/100px-tall-banner.png"/>
+        </div>
+        <a href="https://github.com/phyloref" class="btn-info"><i class="fa fa-github-alt fa-lg"></i> View on GitHub</a>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     {% endif %}
