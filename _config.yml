@@ -67,3 +67,9 @@ exclude:
   - tmp
   - Dockerfile
   - serve-local.sh
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      ads: false
