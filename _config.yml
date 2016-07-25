@@ -34,8 +34,8 @@ owner:
   google:
     ad-client:
     ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  bio: Precise, portable and fully computable clade definitions
+  avatar: Phyloref-logo-square-160px.png
   disqus-shortname:
 
 

@@ -1,0 +1,32 @@
+# Authors
+
+hlapp:
+  name: Hilmar Lapp
+  web: http://lappland.io
+  email: hilmar.lapp@duke.edu
+  bio: "Phylorerencing PI. "
+  avatar: HilmarLapp-avatar-160px.jpg
+  github: hlapp
+  twitter: hlapp
+  google:
+    plus: +HilmarLapp
+
+ncellinese:
+  name: Nico Cellinese
+  email: ncellinese@flmnh.ufl.edu
+  bio: "Phyloreferencing PI. Is all about Systematics & Evolution, Biogeography, Phyloinformatics, Biodiversity Informatics."
+  avatar: NicoCellinese-avatar-160px.jpg
+  github: ncellinese
+  twitter: ncellinese
+  google:
+    plus: 111186454084885016182
+
+mrvaidya:
+  name: Gaurav Vaidya
+  email: gaurav@ggvaidya.com
+  bio: "Thinks scientific names are the coolest things ever. Developing ways to quantify taxonomic stability. PhD student at the University of Colorado."
+  avatar: GauravVaidya-avatar-160px.jpg
+  twitter: mrvaidya
+  github: gaurav
+  google:
+    plus: +GauravVaidya42
