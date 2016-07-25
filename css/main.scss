@@ -85,3 +85,14 @@ img.banner {
     margin-top: 4.5rem;
     margin-bottom: 8.6rem;
 }
+
+/* tweaking badges for post metadata */
+.page-meta {
+    p .badge, div .badge {
+        margin-left: 1rem;
+        background-color: lighten($primary-color, 40);
+    }
+    p .badge:first-of-type, div .badge:first-of-type {
+        margin-left: 0rem;
+    }
+}

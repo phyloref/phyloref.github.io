@@ -7,8 +7,9 @@ locales:
   en: &DEFAULT_EN
     overview: "Overview"
     toc: "Table of Contents"
-    written_by: "Written by"
+    written_by: ""
     updated: "Updated"
+    published: "Published"
     share: "Share on"
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
@@ -21,8 +22,9 @@ locales:
     <<: *DEFAULT_EN     # load English values as default
     overview: "&Uuml;bersicht"
     toc: "Inhalt"
-    written_by: "Verfasst von"
+    written_by: ""
     updated: "Zuletzt aktualisiert:"
+    published: "Publiziert: "
     share: ""
   de_DE:
     <<: *DEFAULT_DE     # use German translation for de_DE

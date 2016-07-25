@@ -69,7 +69,15 @@ exclude:
   - serve-local.sh
 
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
     values:
       ads: false
+  -
+    scope:
+      path: "_posts/blog"
+      type: "posts"
+    values:
+      category: "blog"
+      permalink: /:categories/:year/:month/:title/
