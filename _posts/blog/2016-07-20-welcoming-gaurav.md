@@ -21,7 +21,7 @@ to announce that effective June 15, 2016, [Gaurav Vaidya] has joined
 our project.
 
 Gaurav has spent the last five years as a graduate student at the
-University of Colorado in Boulder in [Rob Guralnick's lab], where he
+University of Colorado Boulder in [Rob Guralnick's lab], where he
 developed techniques and measures to quantify taxonomic stability,
 which is important for those integrating data for taxa. He also enjoys
 building software tools for biodiversity researchers, and in his spare
