@@ -17,7 +17,7 @@ every key area of the project, from software development, to research,
 to coordinating with related bioinformatics efforts, and in
 outreach. Recruiting this role proved very challenging and took the
 better part of a year. As you might imagine, we are therefore thrilled
-to announce that effective June 13, 2016, [Gaurav Vaidya] has joined
+to announce that effective June 15, 2016, [Gaurav Vaidya] has joined
 our project.
 
 Gaurav has spent the last five years as a graduate student at the
