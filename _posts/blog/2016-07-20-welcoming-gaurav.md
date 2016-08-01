@@ -7,7 +7,7 @@ tags: ["postdoc", "announcement"]
 published: true
 image:
   feature:
-  teaser:
+  teaser: tol_9_19_2011-400x250.jpeg
   thumb:
 ---
 
