@@ -58,6 +58,11 @@ sitemap: false
    Customizations
    ========================================================================== */
 
+/* complete set of breakpoints in addition to micro, small, medium, large */
+$mini: new-breakpoint(min-width em(480) 12);
+$mini_only: new-breakpoint(min-width em(480) max-width em(600) 12);
+$small_only: new-breakpoint(min-width em(600) max-width em(900) 12);
+
 /* Don't show the sliding menu button _and_ the navigation menu. The
    navigation menu disappears below $medium screen size, so let's make
    the sliding menu button disappear at $medium and above screen
@@ -94,5 +99,42 @@ img.banner {
     }
     p .badge:first-of-type, div .badge:first-of-type {
         margin-left: 0rem;
+    }
+}
+
+/* tweaks grid of posts for blog collection */
+.tiles {
+    @include outer-container;
+    .blog-list-item {
+        margin-bottom: $gutter;
+        @include media($micro) {
+            @include fill-parent;
+        }
+        @include media($mini) {
+            @include fill-parent;
+        }
+        @include media($small_only) {
+            @include span-columns(6);
+            @include omega(2n);
+        }
+        @include media($medium) {
+            @include span-columns(4);
+            @include omega(3n);
+        }
+        .entry-date {
+            @include font-size(16,no);
+            color: lighten($text-color,25);
+        }
+        .post-title {
+            @include font-size(18,no);
+        }
+        .post-excerpt {
+            @include font-size(16);
+        }
+        p.post-meta {
+            @include font-size(14,no);
+	    font-family: $alt-font;
+	    color: lighten($text-color,40);
+        }
     }
 }
