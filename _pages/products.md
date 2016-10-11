@@ -12,6 +12,10 @@ image:
 ads: false
 ---
 
+## Software
+
+* [phylo2owl](https://github.com/phyloref/phylo2owl): Tool to convert phylogenies to OWL ontologies.
+
 ## Presentations
 
 * Vaidya G, Lapp H, Cellinese N (2016) "[The Semantic Clade](https://speakerdeck.com/gaurav/the-semantic-clade)."
