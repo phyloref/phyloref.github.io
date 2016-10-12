@@ -4,29 +4,33 @@ hlapp:
   name: Hilmar Lapp
   web: http://lappland.io
   email: hilmar.lapp@duke.edu
-  bio: "Phylorerencing PI. "
+  bio: "Phylorerencing PI. Making descriptive observations fully computable."
+  fullbio: "Hilmar has been at the intersection of biology, computer science, and informatics since high school. He cares deeply about making software, data, and other scientific products reusable, reproducible, and interoperable, in particular for the long tail of small science. For the past 10 years, his research has focused on availing the vast  amount of descriptive biodiversity data to computational data science, in particular through the Phenoscape project, where he is co-PI."
   avatar: HilmarLapp-avatar-160px.jpg
   github: hlapp
   twitter: hlapp
-  google:
-    plus: +HilmarLapp
+  googleplus: +HilmarLapp
+  scholar: http://orcid.org/0000-0001-9107-0714
 
 ncellinese:
   name: Nico Cellinese
+  web: http://www.flmnh.ufl.edu/museum-voices/nico-cellinese/
   email: ncellinese@flmnh.ufl.edu
   bio: "Phyloreferencing PI. Is all about Systematics & Evolution, Biogeography, Phyloinformatics, Biodiversity Informatics."
+  fullbio: "Nico’s research lies at the interface of biodiversity science and informatics. She aims at more effectively bridging the synergies of plant systematics, evolution, biogeography, and informatics in innovative ways. Nico has been involved with selected aspects of the PhyloCode development, including the development of RegNum, which is the public repository of clade names and phylogenetic definitions. This has given her the opportunity to explore in depth a tree-thinking approach to nomenclature."
   avatar: NicoCellinese-avatar-160px.jpg
   github: ncellinese
   twitter: ncellinese
-  google:
-    plus: 111186454084885016182
+  googleplus: 111186454084885016182
 
 mrvaidya:
   name: Gaurav Vaidya
+  web: http://www.ggvaidya.com/
   email: gaurav@ggvaidya.com
   bio: "Thinks scientific names are the coolest things ever. Developing ways to quantify taxonomic stability. PhD student at the University of Colorado."
+  fullbio: "Gaurav thinks scientific names are the coolest things ever, not just because of their central role in biodiversity data integration but also because of their history as imperfect identifiers created over three centuries by taxonomists from around the world. He’s spent the last five years as a graduate student at CU Boulder developing techniques and measures to quantify taxonomic stability. He enjoys using his programming skills to make life easier for biodiversity researchers, which is why this project -- with software-building, name-defining and data-integrating components -- is such a perfect fit for him."
   avatar: GauravVaidya-avatar-160px.jpg
   twitter: mrvaidya
   github: gaurav
-  google:
-    plus: +GauravVaidya42
+  googleplus: +GauravVaidya42
+  scholar: http://scholar.google.com/citations?user=EGDSsloAAAAJ&hl=en 
