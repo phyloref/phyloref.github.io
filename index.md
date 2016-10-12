@@ -68,20 +68,3 @@ and
 [DBI-1458604](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1458604)
 to Hilmar Lapp (Duke University) and Nico Cellinese (University of
 Florida), respectively. The proposal text is available online: <cite>Cellinese, Nico; Lapp, Hilmar (2015): An Ontology-Based System for Querying Life in a Post-Taxonomic Age. figshare. <https://dx.doi.org/10.6084/m9.figshare.1401984></cite>
-
-## People
-
-### Project personnel
-
-* [Nico Cellinese](http://www.flmnh.ufl.edu/museum-voices/nico-cellinese/) (PI, University of Florida)
-* [Hilmar Lapp](http://orcid.org/0000-0001-9107-0714) (PI, Duke University)
-* [Gaurav Vaidya](http://www.ggvaidya.com) (University of Florida)
-
-### Advisory Board
-
-* Jim Balhoff (RTI)
-* David Baum (University of Wisconsin, Madison)
-* Holly Bik (University of California, Riverside)
-* Christopher Mungall (Lawrence Berkeley National Laboratory)
-* Susan Perkins (American Museum of Natural History)
-* Michael Sanderson (University of Arizona)
