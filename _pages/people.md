@@ -23,7 +23,7 @@ ads: false
     {% endif %}
 	<h4>{% if person.web %}<a href="{{ person.web }}" itemprop="name">{{ person.name }}</a>{% else %}<span itemprop="author">{{ person.name }}</span>{% endif %}</h4>
     <p>
-    {% if person.email %}<a href="mailto:{{ person.email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a> &nbsp; {% endif %}
+    {% if person.email %}<a href="mailto:{{ person.email | encode_email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a> &nbsp; {% endif %}
     {% if person.web %}<a href="{{ person.web }}" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a> &nbsp; {% endif %}
     {% if person.github %}<a href="http://github.com/{{ person.github }}" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a> &nbsp; {% endif %}
     {% if person.twitter %}<a href="http://twitter.com/{{ person.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> &nbsp; {% endif %}
