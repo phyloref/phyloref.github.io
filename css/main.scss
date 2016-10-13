@@ -137,4 +137,27 @@ img.banner {
 	    color: lighten($text-color,40);
         }
     }
+    .post-tile {
+        margin-bottom: $gutter;
+        @include media($micro) {
+            @include fill-parent;
+        }
+        @include media($mini) {
+            @include fill-parent;
+        }
+        @include media($small_only) {
+            @include span-columns(6);
+            @include omega(2n);
+        }
+        @include media($medium) {
+            @include span-columns(4);
+            @include omega(3n);
+        }
+        .post-title {
+            @include font-size(18,no);
+        }
+        .post-excerpt {
+            @include font-size(16);
+        }
+    }
 }

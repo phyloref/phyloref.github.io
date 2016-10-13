@@ -5,66 +5,51 @@ image:
   feature: tol_9_19_2011-cropped-1600x800.jpg
 ---
 
+<div class="tiles">
 
-## The problem
+<div class="post-tile">
+  <h2 class="post-title badge">The problem</h2>
+  <p class="post-excerpt">The vast amount of data on life's
+  biodiversity that scientists collect across the globe becomes truly
+  powerful only when data from all the different sources can be
+  integrated, queried, and aggregated with precision by
+  machines. However, the by far most common way to link organismal
+  data, using taxon names based in Linnaean nomenclature, is
+  fundamentally fraught. The semantics of a Linnaean name, crucial to
+  determine the organisms it does and does not refer to, change over time, are
+  applied inconsistently, and most importantly, are unavailable to
+  machines. And the explosion of molecular data has uncovered many
+  groups, not only microbial, that do not and may never have a
+  Linnaean name.</p>
+</div><!-- /.post-tile -->
 
-Scientists across the globe collect ever more data about ever more
-characteristics of life's diversity on earth. This breadth of data
-becomes truly powerful only when data from the many different sources,
-studies, and researchers can be integrated, queried, and aggregated
-by machines, with precision, and at scale.
+<div class="post-tile">
+  <h2 class="post-title badge">Our approach</h2>
+  <p class="post-excerpt">We use ontologies and OWL (a formal
+  ontology language developed by the W3C) to enable users to create
+  definitions with precise, unambiguous, and fully computable
+  semantics for any organismal clade. We call such definitions
+  <em>phyloreferences</em>, in analogy to
+  <em>georeferences</em>, which have enabled
+  countless geo-enabled applications. We employ machine reasoners to
+  determine which elements in a phylogeny match a phyloreference.</p>
+</div><!-- /.post-tile -->
 
-However, to this day the by far most common way to link organismal
-data relies on organism names based in Linnaean nomenclature. As a
-consequence, linking organismal data is fraught with the following two
-major issues:
+<div class="post-tile">
+  <h2 class="post-title badge">What we do</h2>
+  <p class="post-excerpt">We are developing the OWL ontologies, OWL
+  data models, and tooling infrastructure needed to put our approach
+  into practice, and to validate that it works correctly and
+  scalably. We will also develop web applications that allow users to
+  create, find, and reuse phyloreferences, and to apply them
+  to phylogenies both small and Tree of Life-scale, for the purpose of
+  integrating biodiversity data of interest. To accomplish this, we
+  will be working with other biodiversity e-Science projects
+  (including <a href="http://opentreeoflife.org" target="_blank">Open
+  Tree of Life</a> and the <a href="http://eol.org"
+  target="_blank">Encyclopedia of Life</a>) as well
+  as large organismal research collaborations.</p>
+</div><!-- /.post-tile -->
 
-1. Linnaean names are not simply labels, but carry meaning
-   ("semantics") by defining which organisms are and which are not
-   included. These semantics are inaccessible to machines. Worse yet,
-   they can change over time, and frequently differ between those who
-   coin a name and those who apply it.
-2. Because of the nomenclatural process, there are many groups of
-   organisms that do not yet and may never have a Linnaean name. In a
-   name-based system, data without an attached name are dark. Unlike
-   the genes encoded in a genome (whose naming is also governed by a
-   nomenclatural process), there is no reason to predefine the groups
-   for which biological knowledge is worth collecting or
-   communicating.
+</div><!-- /.tiles -->
 
-## About this project
-
-We aim to create a standard mechanism for defining biological clades
-with precise and fully machine-processible semantics. We call this
-mechanism _phyloreferencing_, in analogy to the ubiquitous mechanism
-of _georeferencing_ for geographic places. Instead of geocoordinates
-as the computable reference expression, _phyloreferences_ use a
-machine-interpretable definition of the unique pattern of shared
-evolutionary descent that distinguishes a group from all others. Such
-a group can include many species, or only a population within a
-species, or, for example, those carrying the descendants of a shared
-ancestral gene.
-
-In contrast to authoritative nomenclatural naming, our goal for
-phyloreferences is that users can construct them instantly for any
-group of shared evolutionary descent for which they wish to
-communicate data or discoveries.
-
-Our work builds on more than a decade’s worth of theoretical and
-applied research into phylogenetic taxonomy. In addition to developing
-the phyloreferencing standard, as part of this project we will also
-create classroom-ready teaching materials and curricula for training
-biology students in the theoretical underpinnings and practical
-applications of phylogenetic nomenclature.
-
-### Funding
-
-<div style="float: right; max-width: 128px; margin-top:
--10px;"><img src="http://www.nsf.gov/images/logos/nsf1.jpg"/></div>
-This project is funded by the US National Science Foundation through
-collaborative grants
-[DBI-1458484](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1458484)
-and
-[DBI-1458604](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1458604)
-to Hilmar Lapp (Duke University) and Nico Cellinese (University of
-Florida), respectively. The proposal text is available online: <cite>Cellinese, Nico; Lapp, Hilmar (2015): An Ontology-Based System for Querying Life in a Post-Taxonomic Age. figshare. <https://dx.doi.org/10.6084/m9.figshare.1401984></cite>
