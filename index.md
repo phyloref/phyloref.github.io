@@ -3,6 +3,8 @@ layout: home
 permalink: /
 image:
   feature: tol_9_19_2011-cropped-1600x800.jpg
+  credit: Yifan Hu
+  creditlink: http://yifanhu.net/TOL/
 ---
 
 <div class="tiles">
