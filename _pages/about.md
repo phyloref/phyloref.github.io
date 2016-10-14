@@ -82,6 +82,29 @@ As its theoretical underpinnings, our work builds on more than a
 decade’s worth of theoretical and applied research into phylogenetic
 taxonomy.
 
+## Logo
+
+The Phyloreferencing logo artwork was designed by [Kim Schoonover] and
+made possible by a gift from [Ken and Linda McGurn]. It is available
+for use under a [CC-BY 4.0] license (as is the rest of the content
+here).[^1] [Other formats]({{ site.url }}/images/logo/) than the ones
+shown below are available.
+
+[^1]: Please note that the terms of [CC-BY 4.0] prohibit you from
+      using the logo or artwork in a way that suggests our endorsement
+      of content or products of yours.
+
+{% assign logos = "logo/Phyloref-logo - reference sheet.svg; logo/Phyloref-logo-400px.png; logo/Phyloref-logo-banner.png" | split: "; " %}
+<figure class="third">
+  {% for logo in logos %}
+  <a href="{{ site.url }}/images/{{ logo }}"><img src="{{ site.url }}/images/{{ logo }}"/></a>
+  {% endfor %}
+  <figcaption>Phyloreferencing logo artwork. Reference sheet (SVG),
+  400px square logo (PNG), and logo banner (PNG).
+  </figcaption>
+</figure>
+
+
 ## Acknowledgements
 
 ### Image credits
@@ -115,4 +138,6 @@ support of the project to Nico Cellinese.
 [PhyloCode]: https://www.ohio.edu/phylocode/
 [Yifan Hu]: http://yifanhu.net/
 [TolWeb]: http://www.tolweb.org/
+[Kim Schoonover]: https://wikimediafoundation.org/wiki/User:Isarra
 [Ken and Linda McGurn]: http://mcgurn.com/mcgurn4.htm
+[CC-BY 4.0]: https://creativecommons.org/licenses/by/4.0/
