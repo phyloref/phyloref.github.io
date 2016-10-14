@@ -53,28 +53,6 @@ ontology-based references to elements on the Tree of Life that are
 unambiguous and the semantics of which are amenable to powerful
 machine reasoning, making clade definitions fully computable.
 
-## Acknowledgements
-
-### Image credits
-
-The Tree of Life visualization, which also forms the backdrop on the
-front page and serves as standard image for blog posts, is reused with
-permission from [Yifan Hu]. The visualization uses
-[Web Tree of Life][TolWeb] data. You can read more about it and find
-the original here: <http://yifanhu.net/TOL/>.
-
-### Funding
-
-<div style="float: right; max-width: 128px; margin-top:
--10px;"><img src="http://www.nsf.gov/images/logos/nsf1.jpg"/></div>
-This project is funded by the US National Science Foundation through
-collaborative grants
-[DBI-1458484](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1458484)
-and
-[DBI-1458604](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1458604)
-to Hilmar Lapp (Duke University) and Nico Cellinese (University of
-Florida), respectively. The proposal text is available online: <cite>Cellinese, Nico; Lapp, Hilmar (2015): An Ontology-Based System for Querying Life in a Post-Taxonomic Age. figshare. <https://dx.doi.org/10.6084/m9.figshare.1401984></cite>
-
 ## History
 
 The roots of Phyloreferencing as an idea go back to a [group of
@@ -104,6 +82,31 @@ As its theoretical underpinnings, our work builds on more than a
 decade’s worth of theoretical and applied research into phylogenetic
 taxonomy.
 
+## Acknowledgements
+
+### Image credits
+
+The Tree of Life visualization, which also forms the backdrop on the
+front page and serves as standard image for blog posts, is reused with
+permission from [Yifan Hu]. The visualization uses
+[Web Tree of Life][TolWeb] data. You can read more about it and find
+the original here: <http://yifanhu.net/TOL/>.
+
+### Funding
+
+<div style="float: right; max-width: 128px; margin-top:
+-10px;"><img src="http://www.nsf.gov/images/logos/nsf1.jpg"/></div>
+This project is funded by the US National Science Foundation through
+collaborative grants
+[DBI-1458484](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1458484)
+and
+[DBI-1458604](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1458604)
+to Hilmar Lapp (Duke University) and Nico Cellinese (University of
+Florida), respectively. The proposal text is available online: <cite>Cellinese, Nico; Lapp, Hilmar (2015): An Ontology-Based System for Querying Life in a Post-Taxonomic Age. figshare. <https://dx.doi.org/10.6084/m9.figshare.1401984></cite>
+
+We are also very grateful to [Ken and Linda McGurn] for a gift in
+support of the project to Nico Cellinese.
+
 [VoCamp subgroup]: https://www.evoio.org/wiki/Phyloreferencing_subgroup
 [TDWG 2009]: http://www.tdwg.org/conference2009/
 [Biodiversity Information Standards]: http://tdwg.org
@@ -112,3 +115,4 @@ taxonomy.
 [PhyloCode]: https://www.ohio.edu/phylocode/
 [Yifan Hu]: http://yifanhu.net/
 [TolWeb]: http://www.tolweb.org/
+[Ken and Linda McGurn]: http://mcgurn.com/mcgurn4.htm
