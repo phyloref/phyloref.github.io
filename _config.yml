@@ -2,8 +2,8 @@
 
 title: "Phyloreferencing"
 description: "Website for the Phyloreferencing Project."
-logo: Phyloref-logo-120px.png # 120x120 px default image used for Twitter summary card
-teaser: Phyloref-logo-400x250px.png # 400x250 px default teaser image used in image archive grid
+logo: logo/Phyloref-logo-120px.png # 120x120 px default image used for Twitter summary card
+teaser: logo/Phyloref-logo-400x250px.png # 400x250 px default teaser image used in image archive grid
 icon: favicon.ico
 locale: en
 url: http://www.phyloref.org
@@ -36,7 +36,7 @@ owner:
     ad-client:
     ad-slot:
   bio: Precise, portable and fully computable clade definitions
-  avatar: Phyloref-logo-square-160px.png
+  avatar: logo/Phyloref-logo-square-160px.png
   disqus-shortname:
 
 
