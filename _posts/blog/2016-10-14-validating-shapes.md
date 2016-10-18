@@ -6,6 +6,7 @@ modified:
 excerpt: How do you know your RDF data is meaningful? You test it!
 tags: ["software testing", "development plan", "development"]
 published: true
+comments: true
 image:
   feature: correct_and_incorrect_trees_as_ontologies-unscaled.png
   teaser: correct_and_incorrect_trees_as_ontologies.png
