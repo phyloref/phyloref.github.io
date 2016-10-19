@@ -38,7 +38,13 @@ owner:
   bio: Precise, portable and fully computable clade definitions
   avatar: logo/Phyloref-logo-square-160px.png
   disqus-shortname: phyloref
-
+  piwik:
+    cookieDomain: "*.phyloref.org"
+    domains:
+      - "*.phyloref.org"
+      - "*.phyloref.github.io"
+    endpointPrefix: "evoio.org/analytics/"
+    siteId: 2
 
 include:
   - .htaccess
