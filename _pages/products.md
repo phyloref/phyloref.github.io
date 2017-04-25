@@ -18,6 +18,8 @@ ads: false
 
 ## Presentations
 
+* Vaidya G, Lapp H, Cellinese N (2016) "[Creating computable definitions for clades using the Web Ontology Language (OWL)](https://speakerdeck.com/gaurav/creating-computable-definitions-for-clades-using-the-web-ontology-language-owl)."  
+  Presentation at TDWG 2016, Santa Clara de San Carlos, Costa Rica. ([video](http://idigbio.adobeconnect.com/p4puo3ev61c/); ours is the second talk in that session, starting at around 16:30)
 * Vaidya G, Lapp H, Cellinese N (2016) "[The Semantic Clade](https://speakerdeck.com/gaurav/the-semantic-clade)."
   Presentation at the 2016 Evolution Meetings, Austin TX. ([video](https://www.youtube.com/watch?v=_aNaAQYTNVc))
 * Cellinese N, Lapp H (2016) "[Integrating data with phylogenies, at
