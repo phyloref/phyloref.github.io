@@ -2,6 +2,7 @@
 layout: post
 title: First Face-to-Face Project Meeting
 author: gaurav
+date: 2017-04-28
 modified:
 excerpt: A report of our first face-to-face project meeting in Gainesville from April 19-20, 2017.
 tags: ["development plan", "project plan"]
