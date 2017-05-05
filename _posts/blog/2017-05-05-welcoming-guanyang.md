@@ -19,7 +19,7 @@ infrastructure for comparative trait analysis (such as in particular
 [ARBOR]). This search has recently concluded, and we are delighted
 to welcome Dr. [Guanyang Zhang] to our team.
 
-Guanyang is a taxonomist and an evolutionary biologist. He obtained a
+Guanyang is a taxonomist, an entomologist, and an evolutionary biologist. He obtained a
 PhD in entomology from the University of California, Riverside (UCR),
 where he worked in [Christiane Weirauch's lab] on the taxonomy,
 phylogenetics, and evolution of assassin bugs (Reduviidae). After
@@ -30,12 +30,12 @@ interests also expanded to bacterial endosymbionts, weevil-host plant
 associations, taxonomic concepts and environmental ontology.
 
 Throughout his research, Guanyang found an imminent need to augment
-the precision and universality when communicating taxonomic concepts,
-which is why he felt the phyloreferencing project as a natural fit for
-expanding his training. He will be particularly interested in
+the precision and universality of taxonomy for communicating and referencing biological information,
+which is why he felt the phyloreferencing project is a natural fit for
+expanding his training. He will be particularly involved in
 developing and testing testing phyloreferences for insects and bacteria.
 
-Guanyang already participated in the [face-to-face project meeting]({%
+Guanyang participated in the [face-to-face project meeting]({%
 post_url 2017-04-26-first-face-to-face-project-meeting %}) last
 month, and will officially join the project in August. Please join us
 in welcoming Guanyang!
