@@ -22,7 +22,7 @@ ads: false
   Rudolph. [On the Ontological Modeling of Trees](http://daselab.cs.wright.edu/pub2/wop2017-trees.pdf). In:
   Proceedings of the 8th Workshop on Ontology Design and Patterns, WOP
   2017, co-located with the 16th International Semantic Web
-  Conference, ISWC2017, Vienna, Austria, October 2017. To appear.
+  Conference, ISWC2017, Vienna, Austria, October 2017. To appear. Also on arXiv, [arXiv:1710.05096 [cs.AI]](https://arxiv.org/abs/1710.05096).
 
 ## Presentations
 
