@@ -24,7 +24,7 @@ We would like to have a prototype by Aug 2018, which should have the following f
 2. Clear benefits to users, as motivated by the user stories we plan to create. 
 3. Easy to handle (user-friendly). The second and third points are quite self-explanatory. In summary, the prototype needs to be useful, appealing and accessible to biologists.
 
-![Discussion agenda items laid  on whiteboard: user stories, prototype, phyloref specifications adn timeline](https://github.com/phyloref/phyloref.github.io/blob/master/images/2ndmeeting.whiteboard1.JPG)
+![Discussion agenda items laid  on whiteboard: user stories, prototype, phyloref specifications adn timeline]({{ site.url }}/images/2ndmeeting.whiteboard1.JPG)
 
 During the second half of the Oct 11 morning session, Guanyang gave a presentation on concept-based taxonomic reconciliation methods, focusing on two approaches: concept taxonomy and Avibase. Concept taxonomy attempts to resolve ambiguities of taxonomic names by specifying the source of concept circumscription when a name is used. Guanyang discussed an example of using concept taxonomy to reconcile taxonomic history of southeastern orchids in the genus complex Cleistes/Cleistesiopsis and integrate specimen records of these plants. This was based on one of Nico Franz’s grant proposals, which was published in the journal RIO. In his presentation, Guanyang specifically addressed some perceived limitations of concept taxonomy. After a somewhat extended discussion on concept taxonomy, Guanyang proceeded to discuss Avibase, which is a taxonomic and biodiversity database that utilizes taxonomic concepts. A more detailed description of concept taxonomy and Avibase is reserved for a separate blog entry.
 
