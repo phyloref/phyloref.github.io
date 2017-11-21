@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Welcoming Guanyang Zhang to the Phyloreferencing project
+title: Second face to face project meeting
 modified:
-excerpt: We are very excited that Guanyang Zhang will join our project in August 2017.
-tags: ["postdoc", "announcement"]
+excerpt: A report of our second face-to-face project meeting in Gainesville from Oct 11-12, 2017.
+tags: ["p"development plan", "project plan" "project meeting"]
 published: true
+comments: true
 image:
   feature:
   teaser: tol_9_19_2011-400x250.jpeg
