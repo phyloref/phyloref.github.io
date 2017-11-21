@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Taxonomic resolution services review (1): Concept taxonomy and Avibase
+title: Second face to face project meeting
 author: gyzhang
 modified:
-excerpt: This blog kicks off a series of entries to review existing taxonomic resolution services and tools.
-tags: ["taxonomic resolution", "literature review", "concept taxonomy"]
+excerpt: A report of our second face-to-face project meeting in Gainesville from Oct 11-12, 2017.
+tags: ["development plan", "project plan", "project meeting"]
 published: true
 comments: true
 image:
