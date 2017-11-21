@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taxonomic resolution services review (1): Concept taxonomy and Avibase
+title: Taxonomic resolution services review (1) - Concept taxonomy and Avibase
 author: gyzhang
 modified:
 excerpt: A report of our second face-to-face project meeting in Gainesville from Oct 11-12, 2017.
