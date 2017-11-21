@@ -7,9 +7,9 @@ tags: ["development plan", "project plan", "project meeting"]
 published: true
 comments: true
 image:
-  feature: tol_9_19_2011-400x250.jpeg
+  feature: 
   teaser: tol_9_19_2011-400x250.jpeg
-  thumb: tol_9_19_2011-400x250.jpeg
+  thumb: 
 ---
 
 The phyloreferencing (hereafter as phyloref) project team had their second face-to-face meeting on Oct 11 & 12, 2017. The first took place in Apr, 2017. See meeting [blog/report here]. During this two-day meeting, we covered a range of topics, with an emphasis on concept taxonomy, phyloref specifications and future plans.
