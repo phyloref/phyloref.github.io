@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Taxonomic resolution services review (1): concept taxonomy and Avibase
+title: Taxonomic resolution services review (1): Concept taxonomy and Avibase
 author: gyzhang
 modified:
-excerpt: This blog kicks off a series of blog entries to review various existing taxonomic resolution services and tools.
+excerpt: This blog kicks off a series of entries to review existing taxonomic resolution services and tools.
 tags: ["taxonomic resolution", "literature review", "concept taxonomy"]
 published: true
 comments: true
