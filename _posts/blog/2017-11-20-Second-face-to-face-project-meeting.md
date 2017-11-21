@@ -5,7 +5,7 @@ author: gyzhang
 modified:
 excerpt: A report of our second face-to-face project meeting in Gainesville from Oct 11-12, 2017.
 tags: ["development plan", "project plan", "project meeting"]
-published: true
+published: false
 comments: true
 image:
   feature: 
