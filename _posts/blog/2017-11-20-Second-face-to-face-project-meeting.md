@@ -8,11 +8,8 @@ excerpt: A report of our second face-to-face project meeting in Gainesville from
 tags: ["development plan", "project plan" "project meeting"]
 published: true
 comments: true
-image:
-  feature: 2017-04-project-meeting/group_photo.jpeg
-  teaser: 2017-04-project-meeting/group_photo.jpeg
-  thumb: 2017-04-project-meeting/group_photo.jpeg
 ---
+
 The phyloreferencing (hereafter as phyloref) project team had their second face-to-face meeting on Oct 11 & 12, 2017. The first took place in Apr, 2017. See meeting [blog/report here]. During this two-day meeting, we covered a range of topics, with an emphasis on concept taxonomy, phyloref specifications and future plans.
 
 The meeting kicked off with Gaurav laying out an agenda and reviewing the timeline of the project. On top of the list was phyloref specifications, which Gaurav had been working on quite extensively, but was facing several challenges, theoretical or practical. Curation workflow was also on the list, and was discussed during the second day, with a focus on its current deficiencies. Hilmar suggested the curation be driven by compelling user stories. We brainstormed around that idea including primates, amphibians (e.g., *Rana*), butterflies and plants. This idea precipitated to a resolution, i.e., outreaching to NSF GoLife project teams, and this task was assigned to Guanyang. He will be working along with Nico to contact [GoLife] project PIs to explain what we are doing and why it is relevant to their projects. Nico also mentioned specifically that GoLife projects are different from the previous “Tree of Life” projects as the former put a special emphasis on generating data layers and integrating data with phylogenies. These are in line with one of the objectives of the phyloref project, i.e., enabling and facilitating large-scale data integration.
