@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Second face to face project meeting
-author: gyzhang
-date: 2017-11-20
+title: Welcoming Guanyang Zhang to the Phyloreferencing project
 modified:
-excerpt: A report of our second face-to-face project meeting in Gainesville from Oct 11-12, 2017.
-tags: ["development plan", "project plan" "project meeting"]
+excerpt: We are very excited that Guanyang Zhang will join our project in August 2017.
+tags: ["postdoc", "announcement"]
 published: true
-comments: true
+image:
+  feature:
+  teaser: tol_9_19_2011-400x250.jpeg
+  thumb:
 ---
 
 The phyloreferencing (hereafter as phyloref) project team had their second face-to-face meeting on Oct 11 & 12, 2017. The first took place in Apr, 2017. See meeting [blog/report here]. During this two-day meeting, we covered a range of topics, with an emphasis on concept taxonomy, phyloref specifications and future plans.
