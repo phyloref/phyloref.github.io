@@ -46,7 +46,7 @@ Below is a list of pending issues that we are still exploring:
 
 [^workshop]: Both Gaurav and Guanyang were accepted to attend the Phenoscape workshop and this trip will take place in the early part of Dec. 
 
-[blog/report here]: http://www.phyloref.org/blog/2017/04/first-face-to-face-project-meeting/
+[blog/report here]: {% post_url /blog/2017-04-26-first-face-to-face-project-meeting %}
 [GoLife]: https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5129
 [RIO]: https://riojournal.com/article/10610/
 [Keesey (2007)]: http://onlinelibrary.wiley.com/doi/10.1111/j.1463-6409.2007.00302.x/full
