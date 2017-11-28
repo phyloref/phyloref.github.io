@@ -44,7 +44,6 @@ Below is a list of pending issues that we are still exploring:
 3. Can phyloreferences be fully portable from one phylogeny to another, in other words, independent of a particular phylogeny?
 4. In relation to question 3, how do we model or create phyloref for a clade when the underlying phylogeny changes? Can we test this?
 
-[^horizon]: The symposium proposal submitted by Guanyang was not accepted for Evolution 2018, but Gaurav should still look into submitting a talk abstract to another symposium.
 [^workshop]: Both Gaurav and Guanyang were accepted to attend the Phenoscape workshop and this trip will take place in the early part of Dec. 
 
 [blog/report here]: http://www.phyloref.org/blog/2017/04/first-face-to-face-project-meeting/
