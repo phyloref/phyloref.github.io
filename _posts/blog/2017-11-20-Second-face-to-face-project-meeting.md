@@ -10,7 +10,7 @@ comments: true
 image:
   feature: 
   teaser: tol_9_19_2011-400x250.jpeg
-  thumb: 
+  thumb:  
 ---
 
 The Phyloreferencing (hereafter as phyloref) project team had their second face-to-face meeting on Oct 11 & 12, 2017. The first took place in Apr, 2017. During this meeting, we covered a range of topics, with an emphasis on concept taxonomy, phyloref specifications and future plans.
