@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Second face to face project meeting
-author: gyzhang
+author: 
+  gyzhang
+  hlapp
 modified:
 excerpt: A report of our second face-to-face project meeting in Gainesville from Oct 11-12, 2017.
 tags: ["development plan", "project plan", "project meeting"]
