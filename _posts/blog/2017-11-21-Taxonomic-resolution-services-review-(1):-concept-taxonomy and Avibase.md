@@ -13,7 +13,7 @@ image:
   thumb: 
 ---
 
-Our phyloreferencing (hereafter as phyloref) project attempts to provide precise, portable and fully computable clade definitions. It is important for us to be aware of existing taxonomic resolution services that fulfill similar objectives, what they do and don't do, what their strengths and limitations are, and how our project is different. Hence, I am charged with performing a literature review of existing taxonomic resolution services. As I do this, I will be writing blog entries to document my findings. The first blog entry will focus on two services that are based on the use of taxon concepts: concept taxonomy and Avibase.
+Our phyloreferencing (hereafter as phyloref) project aims to provide precise, portable and fully computable clade definitions. It is important for us to be aware of existing taxonomic resolution services that fulfill similar objectives, what they do and don't do, what their strengths and limitations are, and how our project is different. Hence, I am charged with performing a literature review of existing taxonomic resolution services. As I do this, I will be writing blog entries to document my findings. The first blog entry will focus on two services that are based on the use of taxon concepts: concept taxonomy and Avibase.
 
 **Concept taxonomy**
 
