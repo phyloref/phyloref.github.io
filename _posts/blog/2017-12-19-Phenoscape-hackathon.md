@@ -17,6 +17,6 @@ Gaurav and Guanyang attended a the Phenoscape Knowledgebase Hackathon hosted by 
 
 Guanyang joined the [OpenTree](https://tree.opentreeoflife.org/) sub-group, led by [Emily McTavish](https://mctavishlab.github.io/) and worked on a small project to match [Vertebrate Taxonomy Ontology (VTO)](https://bioportal.bioontology.org/ontologies/VTO) ([Midford et al., 2013](https://jbiomedsem.biomedcentral.com/articles/10.1186/2041-1480-4-34)) with the [Open Tree Taxonomy (OTT)](https://tree.opentreeoflife.org/about/taxonomy-version/ott3.0). The VTO is used in Phenoscape Knowledge as its underlying taxonomy. It contains more than 100,000 taxonomic names compiled from multiple sources. 
 
-Why is ther a need to match the two taxonomies, namely, VTO and OTT? Phenoscape contains trait (phenotypic) data, anchored to taxonomic names and  comparative analyses require phylogenetic trees. 
+Why is ther a need to match the two taxonomies, namely, VTO and OTT? Phenoscape contains trait (phenotypic) data, anchored to taxonomic names and  comparative analyses require phylogenetic trees.
 
 Throughout the four-day workshp, a recurring theme is taxonomy. XXX 
