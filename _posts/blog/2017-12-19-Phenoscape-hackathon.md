@@ -19,4 +19,4 @@ Guanyang joined the [OpenTree](https://tree.opentreeoflife.org/) sub-group, led 
 
 Why is ther a need to match the two taxonomies, namely, VTO and OTT? Phenoscape contains trait (phenotypic) data, anchored to taxonomic names and  comparative analyses require phylogenetic trees.
 
-Throughout the four-day workshp, a recurring theme is taxonomy. XXX 
+Throughout the four-day workshp, a recurring theme is reconciling taxonomies.
