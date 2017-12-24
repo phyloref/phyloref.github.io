@@ -21,4 +21,6 @@ Why is ther a need to match the two taxonomies, namely, VTO and OTT? Phenoscape 
 
 Throughout the four-day workshp, a recurring theme is reconciling taxonomies.
 
-[Matt Yoder](http://wwx.inhs.illinois.edu/directory/show/mjyoder) (Illinois Natural History Survey) demonstrated the nomenclature model of [Taxonworks](http://taxonworks.org/), which is an all-in-one biodiversity/taxonomic data management system. I was particularly impressed with the elegant and user-friendly sandbox interface. Further details about the nomenclature ontology in Taxonworks can be found in the [slides](https://github.com/SpeciesFileGroup/nomen/blob/master/docs/presentations/Ballroom_A_Tuesday_1445_Yoder_TDWG17.pptx) of a talk given by Matt at [TDWG 2017](https://tdwg.github.io/conferences/2017/) 
+[Matt Yoder](http://wwx.inhs.illinois.edu/directory/show/mjyoder) (Illinois Natural History Survey) demonstrated the nomenclature model of [Taxonworks](http://taxonworks.org/), which is an all-in-one biodiversity/taxonomic data management system. I was particularly impressed with the elegant and user-friendly sandbox interface. Further details about the nomenclature ontology in Taxonworks can be found in the [abstract](https://biss.pensoft.net/article/20284/) and [slides](https://github.com/SpeciesFileGroup/nomen/blob/master/docs/presentations/Ballroom_A_Tuesday_1445_Yoder_TDWG17.pptx) of a talk given by Matt at [TDWG 2017](https://tdwg.github.io/conferences/2017/)
+
+[中文](https://biss.pensoft.net/article/20284/)
