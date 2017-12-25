@@ -14,7 +14,8 @@ image:
 ---
 
 Gaurav and Guanyang attended a the Phenoscape Knowledgebase Hackathon hosted by Duke University. The Hackathon was named ["Promoting Phenoscape KB Data Access and Interoperability Codefest, 2017"](https://github.com/phenoscape/KB-DataFest-2017). It was sponsored by [Phenoscape](http://phenoscape.org/), which is an informatics project that aims to  "create a scalable infrastructure that enables linking phenotypes across different fields of biology by the semantic similarity of their descriptions". The [goal](https://hackmd.io/s/Sk6Xa7Eq-#) of this Hackathon was to "bring together a diverse group of people to collaboratively design and work hands-on on targets of their interest that take advantage and promote reuse of Phenoscape’s online evolutionary data resources and services". Altogether [28 researchers](https://github.com/phenoscape/KB-DataFest-2017/wiki/Participants) participated in this Hackathon. This group included both domain experts (meaning organismal biologists or taxonomists in this particular workshop) and programmers.
- <figure>
+
+<figure>
   <img src="https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg"
        alt="Participants of the 2017 Phenoscape Hackathon;
             27 researchers attended the event at Duke University, Durham, North Carolina"
@@ -39,7 +40,3 @@ The million-dollar question that quie a few other Hackathon participants, and, w
 
 Gaurav {insert writing on json project. XXX}
 
-<figure>
-  <img src="https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg" alt="Participants of the Phenoscape Hackathon" align="right" width="384" height="512">
-  <figcaption>Fig1. - Participants of the Phenoscape Hackathon.</figcaption>
-</figure>
