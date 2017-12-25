@@ -17,7 +17,7 @@ Gaurav and Guanyang attended a the Phenoscape Knowledgebase Hackathon hosted by 
 
 ![Participants of the Phenoscape Hackathon](https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg)
 
-<a href="url"><img src="https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg" align="left" height="1024" width="768" ></a>
 
 The Hackathon was a great success and also a good experience for Guanyang and Gaurav. Among the many factors that contributed to its success, we will describe just a few things that were especially impressive and inspiring. We liked the [Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) approach used at the workshop. This happened at the beginning of Hackathon, where participants stood up and gave a three-minute pitch to the audience about a topic that they would like to pursue. Audidence was asked to ask questions that will promote better understanding of the proposal, but not challenge the validity of it. More than 10 pitches were given and written down on easel pad stickers (like [this](https://www.walmart.com/ip/Post-it-Super-Sticky-Self-Stick-Tabletop-Easel-Pad-20-x-23-White-20-Sheets-Pad/15074488)), which were pasted on walls all around the meeting room. Participants then gathered around the topic that interested them and discussed with the pictch-maker or the leader of the proposed project. I (Guanyang) was interested the [PhyloPheno] (https://github.com/phenoscape/PhyloPheno) pitch (see details below) and Gaurav {insert XXX}. 
 
