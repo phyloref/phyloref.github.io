@@ -20,8 +20,7 @@ Gaurav and Guanyang attended a the Phenoscape Knowledgebase Hackathon hosted by 
        alt="Participants of the 2017 Phenoscape Hackathon;
             27 researchers attended the event at Duke University, Durham, North Carolina"
        width="384"
-       height="512"
-       align="right">
+       height="512">
   <figcaption>Participants of the 2017 Phenoscape Hackathon.</figcaption>
 </figure>
 
