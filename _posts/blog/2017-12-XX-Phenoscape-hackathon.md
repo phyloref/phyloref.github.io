@@ -8,9 +8,9 @@ tags: ["meeting"]
 published: false
 comments: true
 image:
-  feature: 2017-10-project-meeting/2ndmeeting.whiteboard3.JPG
-  teaser: 2017-10-project-meeting/2ndmeeting.whiteboard3.JPG
-  thumb: 2017-10-project-meeting/2ndmeeting.whiteboard3.JPG
+  feature: https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.OTT.VTO.match.png
+  teaser: https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.OTT.VTO.match.png
+  thumb: https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.OTT.VTO.match.png
 ---
 
 <a href="url"><img src="https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg" alt="Participants of the Phenoscape Hackathon" align="right" height="384" width="288" ></a> 
