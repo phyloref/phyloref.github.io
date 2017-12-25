@@ -13,10 +13,7 @@ image:
   thumb: 2017-10-project-meeting/2ndmeeting.whiteboard3.JPG
 ---
 
-<figure>
-  <img src="https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg" alt="Participants of the Phenoscape Hackathon" align="right" width="384" height="512">
-  <figcaption>Fig1. - Participants of the Phenoscape Hackathon.</figcaption>
-</figure>
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg" alt="Participants of the 2017 Phenoscape Hackathon" width="384" height="512" style="padding-bottom:0.5em;" />Participants of the 2017 Phenoscape Hackathon</div>
 
 Gaurav and Guanyang attended a the Phenoscape Knowledgebase Hackathon hosted by Duke University. The Hackathon was named ["Promoting Phenoscape KB Data Access and Interoperability Codefest, 2017"](https://github.com/phenoscape/KB-DataFest-2017). It was sponsored by [Phenoscape](http://phenoscape.org/), which is an informatics project that aims to  "create a scalable infrastructure that enables linking phenotypes across different fields of biology by the semantic similarity of their descriptions". The [goal](https://hackmd.io/s/Sk6Xa7Eq-#) of this Hackathon was to "bring together a diverse group of people to collaboratively design and work hands-on on targets of their interest that take advantage and promote reuse of Phenoscape’s online evolutionary data resources and services". Altogether [28 researchers](https://github.com/phenoscape/KB-DataFest-2017/wiki/Participants) participated in this Hackathon. This group included both domain experts (meaning organismal biologists or taxonomists in this particular workshop) and programmers.
 
@@ -36,3 +33,8 @@ The PhyloPheno project team took a two-tiered approach to investigte the taxonom
 The million-dollar question that quie a few other Hackathon participants, and, we believe, all users of biodiversity data, have been asking is how we integrate biodiversity data when taxonomic names are the primary references or identifiers of the data. Phenoscape Knowledgebase contains trait (phenotypic) data of different organisms. The OpenTree provides phylogenetic tree data (either as synthetic tree or original source tree). GBIF, idigbio or other specimen-based databases contain specimen-level data (locality, collection event, repository, etc) comparative analyses require phylogenetic trees. These data are invariably anchored to taxonomic names. Queries,  are done by using taxonomic names. The Phenomap project team was trying to integrate phylogenies downloaded from OpenTree, trait data from Phenoscape and specimen (locality) data from idigbio, which required the reconciliation of three synthetic taxonomies. This kind of integration of heterogenous data from different sources is quite commonplace in the literature, and the main approach to reconcile taxonomies has been matching taxonomic names as text strings and synonymic relations. The problems of using names to integrate data are been well-known and extensively discussed. Allowing more seamless data integration is one of the objectives of our phyloreferencing project. 
 
 Gaurav {insert writing on json project. XXX}
+
+<figure>
+  <img src="https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg" alt="Participants of the Phenoscape Hackathon" align="right" width="384" height="512">
+  <figcaption>Fig1. - Participants of the Phenoscape Hackathon.</figcaption>
+</figure>
