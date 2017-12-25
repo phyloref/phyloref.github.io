@@ -5,7 +5,7 @@ author: gyzhang
 modified:
 excerpt: Gaurav and Guanyang attended a four-day hackathon at Duke University.
 tags: ["meeting"]
-published: false
+published: true
 comments: true
 image:
   feature: https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.OTT.VTO.match.png
