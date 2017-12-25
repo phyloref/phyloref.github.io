@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Phyloreferencing team attends Phenoscape Hackathon
+title: Duke Phenoscape Hackathon - A report 
 author: gyzhang
 modified:
-excerpt: Gaurav and Guanyang attended a four-day hackathon at Duke University.
+excerpt: Gaurav and Guanyang attended the Phenoscape Hackathon at Duke University.
 tags: ["meeting"]
 published: true
 comments: true
