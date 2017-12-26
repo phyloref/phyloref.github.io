@@ -11,7 +11,7 @@ image:
   thumb:
 ---
 
-A few months ago we [opened the search]({% post_url /blog/2016-10-05-postdoc2-ad %}) for the second[^postdocs]
+A few months ago we [opened the search]({% post_url 2016-10-05-postdoc2-ad %}) for the second[^postdocs]
 postdoc to join our project, a role which is expected to liaise with
 large NSF-funded clade-oriented research projects (such as in
 particular [GoLife] projects), and those developing informatics
@@ -36,7 +36,7 @@ expanding his training. He will be particularly involved in
 developing and testing testing phyloreferences for insects and bacteria.
 
 Guanyang participated in the [face-to-face project meeting]({%
-post_url /blog/2017-04-26-first-face-to-face-project-meeting %}) last
+post_url 2017-04-26-first-face-to-face-project-meeting %}) last
 month, and will officially join the project in August. Please join us
 in welcoming Guanyang!
 
