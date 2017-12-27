@@ -8,9 +8,9 @@ tags: ["meeting"]
 published: true
 comments: true
 image:
-  feature: https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.OTT.VTO.match.png
-  teaser: https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.OTT.VTO.match.png
-  thumb: https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.OTT.VTO.match.png
+  feature: https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg
+  teaser: https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg
+  thumb: https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg
 ---
 
 Gaurav and Guanyang attended a the Phenoscape Knowledgebase Hackathon hosted by Duke University. The Hackathon was named ["Promoting Phenoscape KB Data Access and Interoperability Codefest, 2017"](https://github.com/phenoscape/KB-DataFest-2017). It was sponsored by [Phenoscape](http://phenoscape.org/), which is an informatics project that aims to  "create a scalable infrastructure that enables linking phenotypes across different fields of biology by the semantic similarity of their descriptions". The [goal](https://hackmd.io/s/Sk6Xa7Eq-#) of this Hackathon was to "bring together a diverse group of people to collaboratively design and work hands-on on targets of their interest that take advantage and promote reuse of Phenoscape’s online evolutionary data resources and services". <a href="url"><img src="https://github.com/phyloref/phyloref.github.io/blob/master/images/blog.pheno.group.jpg" alt="Participants of the Phenoscape Hackathon" align="right" height="384" width="288" ></a> Altogether [28 researchers](https://github.com/phenoscape/KB-DataFest-2017/wiki/Participants) participated in this Hackathon. This group included both domain experts (meaning organismal biologists or taxonomists in this particular workshop) and programmers.
