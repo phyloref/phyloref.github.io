@@ -36,7 +36,7 @@ expanding his training. He will be particularly involved in
 developing and testing testing phyloreferences for insects and bacteria.
 
 Guanyang participated in the [face-to-face project meeting]({%
-post_url 2017-04-26-first-face-to-face-project-meeting %}) last
+post_url blog/2017-04-26-first-face-to-face-project-meeting %}) last
 month, and will officially join the project in August. Please join us
 in welcoming Guanyang!
 
