@@ -78,21 +78,21 @@ All told, Gaurav learned a lot about how JSON-LD works and spent some time think
 [Emily Jane McTavish]: https://mctavishlab.github.io/
 [Marjan Sadeghi]: https://www.sc.fsu.edu/people?uid=ms16ac 
 [Paula Mabee]: http://www.usd.edu/faculty-and-staff/Paula-Mabee
-[Vertebrate Taxonomy Ontology VTO]: http://www.obofoundry.org/ontology/vto.html
+[Vertebrate Taxonomy Ontology (VTO)]: http://www.obofoundry.org/ontology/vto.html
 [Midford et al., 2013]: https://doi.org/10.1186/2041-1480-4-34
-[Open Tree Taxonomy OTT]: https://tree.opentreeoflife.org/about/taxonomy-version/ott3.0
+[Open Tree Taxonomy (OTT)]: https://tree.opentreeoflife.org/about/taxonomy-version/ott3.0
 [Rees & Cranston, 2017]: https://doi.org/10.3897/BDJ.5.e12581
 [NCBI Taxonomy]: https://www.ncbi.nlm.nih.gov/taxonomy
 [GBIF]: https://www.gbif.org/
 [WoRMS]: http://www.marinespecies.org/aphia.php
 [principle of priority]: https://en.wikipedia.org/wiki/Principle_of_Priority
 [*Scleropages formosus*]: https://tree.opentreeoflife.org/taxonomy/browse?id=335717 
-[*Scleropages formosus* VTO_0033907]: http://purl.obolibrary.org/obo/VTO_0033907
-[*Scleropages aureus* VTO_0066601]: http://purl.obolibrary.org/obo/VTO_0066601
-[*Scleropages legendrei* VTO_0066599]: http://purl.obolibrary.org/obo/VTO_0066599 
-[*Scleropages macrocephalus* VTO_0066600]: http://purl.obolibrary.org/obo/VTO_0066600
-["Catalogue of Fishes" COF]: http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp
-[Kottelat & Widjanarti 2005]: https://www.researchgate.net/publication/270507865_The_fishes_of_Danau_Sentarum_National_Park_and_the_Kapuas_Lakes_Area_Kalimantan_Barat_Indonesia
+[*Scleropages formosus* (VTO_0033907)]: http://purl.obolibrary.org/obo/VTO_0033907
+[*Scleropages aureus* (VTO_0066601)]: http://purl.obolibrary.org/obo/VTO_0066601
+[*Scleropages legendrei* (VTO_0066599)]: http://purl.obolibrary.org/obo/VTO_0066599 
+[*Scleropages macrocephalus* (VTO_0066600)]: http://purl.obolibrary.org/obo/VTO_0066600
+["Catalogue of Fishes" (COF)]: http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp
+[Kottelat & Widjanarti (2005)]: https://www.researchgate.net/publication/270507865_The_fishes_of_Danau_Sentarum_National_Park_and_the_Kapuas_Lakes_Area_Kalimantan_Barat_Indonesia
 ["questionable"]: http://www.fishbase.se/Nomenclature/SynonymsList.php?ID=6357&SynCode=26068&GenusName=Scleropages&SpeciesName=formosus
 [synthetic catfish phylogeny]: https://tree.opentreeoflife.org/opentree/default/download_subtree/ottol-id/701516/Siluriformes 
 [Open Tree of Life project]: https://tree.opentreeoflife.org/opentree/argus/ottol@701516/Siluriformes
