@@ -59,7 +59,6 @@ Gaurav joined the [NeXML](http://nexml.org/) to [JSON-LD](https://json-ld.org/) 
 
 Carl had already [written a R library] for converting between NeXML and JSON-LD. Scott [improved its support for XML namespaces], [removed redundant 'about' keys] and worked with Carl to ensure that [NeXML files could be converted into JSON-LD files and back]. Gaurav [worked on adding additional tests to this repository], in particular making sure that it supported Phenoscape Ontotrace NeXML files. This resulted in several [example JSON-LD files]; a next step might be to develop [the best possible frame for these objects]. Mark Holder reimplemented NeXML to JSON-LD conversion [in Python], while Scott tried to implement it [in Ruby]. Meanwhile, Scott built a [low-level Ruby client for Phenoscape], which Matt used to build a [visualization of Phenoscape attributes arranged anatomically]. Gaurav also [found a bug in DendroPy], which its developer rapidly fixed, allowing DendroPy to correctly read Phenoscape OntoTrace NeXML files.
 
-<a href="https://github.com/phenoscape/fishtank/blob/master/doc/viz.png"><img src="https://raw.githubusercontent.com/phenoscape/fishtank/master/doc/viz.png" alt="A visualization of Phenoscape attributes arranged anatomically created by Matt Yoder" /></a>
 
 <figure>
   <img src="https://raw.githubusercontent.com/phenoscape/fishtank/master/doc/viz.png" alt="A visualization of Phenoscape attributes arranged anatomically created by Matt Yoder."/>
