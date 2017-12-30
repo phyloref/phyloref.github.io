@@ -20,7 +20,9 @@ The hackathon was a great success and also a good experience for Guanyang and Ga
 
 <a href="url"><img src="{{ site.url }}/images/durham-trip-december-2017/blog.pheno.pitch.jpg" alt="Phenoscape Hackathon participants listening to a group pitch"></a>
 
-![Phenoscape Hackathon participants listening to a group pitch]({{ site.url }}/images/2017-10-project-meeting/2ndmeeting.whiteboard1.JPG)
+![Phenoscape Hackathon participants listening to a group pitch]({{ site.url }}/images/durham-trip-december-2017/blog.pheno.pitch.jpg)
+
+![Discussion agenda items laid  on whiteboard: user stories, prototype, Phyloref specifications adn timeline]({{ site.url }}/images/2017-10-project-meeting/2ndmeeting.whiteboard1.JPG)
 
 The second aspect of the hackathon that was really important and enjoyable was the opportunity to interact with other researchers, both during working hours and social time. We was able to chat with most of the participants and also talked about our phyloreferencing project with several. It was interesting, and in some way, stimulating, to get different reactions about this project and more generally about taxonomy from other participants. While most lamented on the instability of names, some also remarked that taxonomic names aren't something they want to be bothered with. The latter sentiment represents perhaps quite a good number of biologists, who may see taxonomy or nomenclature as non-science (See [Dubois 2005, p. 367]). Besides getting different viewpoints of taxonomy, we had exposure to some neat techniques during the workshop, such as making reproducible graphics with Ruby ([an example] by [Matt Yoder] of the Illinois Natural History Survey) and using [Shiny] to run an R script interactively in a web interface. Matt Yoder also demonstrated the nomenclature model of [Taxonworks], which is an all-in-one biodiversity/taxonomic data management system. I was particularly impressed with the elegant and user-friendly web interface. Further details about the nomenclature module in Taxonworks can be found in the [abstract] and [slides] of a talk recently given by Matt at [TDWG 2017].
 
