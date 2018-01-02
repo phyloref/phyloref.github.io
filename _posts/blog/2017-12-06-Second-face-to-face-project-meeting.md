@@ -75,7 +75,7 @@ We discussed several issues that have surfaced in our ongoing work, but which we
 [^phylocode_11_9]: [Article 11.9](https://www.ohio.edu/phylocode/art11.html#art11.9) of the PhyloCode (version 4c) says that "_phylogenetic definitions may include qualifying clauses specifying conditions under which the name cannot be applied to any clade_". Also, [Article 6.5](https://www.ohio.edu/phylocode/art6.html#art6.5) states that an _accepted name_ of a taxon cannot have been "_rendered inapplicable by a qualifying clause in the context of a particular phylogenetic hypothesis_."
 [^otu_confusion]: As the Evolutionary Informatics Working Group at NESCent [concluded many years ago][OTU], _the use of "taxon" for both an OTU and for a class in Organismal Taxonomy is a cause of confusion_.
 
-[the first one]: {% post_url blog/2017-04-26-first-face-to-face-project-meeting %}
+[the first one]: {% post_url /blog/2017-04-26-first-face-to-face-project-meeting %}
 [GoLife]: https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5129
 [Avibase]: https://10.3897/zookeys.420.7089
 [grant proposal by Nico Franz]: https://doi.org/10.3897/rio.2.e10610
