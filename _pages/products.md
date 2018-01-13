@@ -19,10 +19,10 @@ ads: false
 ## Publications
 
 * David Carral, Pascal Hitzler, Hilmar Lapp, Sebastian
-  Rudolph. [On the Ontological Modeling of Trees](http://daselab.cs.wright.edu/pub2/wop2017-trees.pdf). In:
+  Rudolph. [On the Ontological Modeling of Trees](http://ceur-ws.org/Vol-2043/paper-01.pdf). In:
   Proceedings of the 8th Workshop on Ontology Design and Patterns, WOP
   2017, co-located with the 16th International Semantic Web
-  Conference, ISWC2017, Vienna, Austria, October 2017. To appear. Also on arXiv, [arXiv:1710.05096 [cs.AI]](https://arxiv.org/abs/1710.05096).
+  Conference, ISWC2017, Vienna, Austria, October 2017. <http://ceur-ws.org/Vol-2043/>. Also on arXiv, [arXiv:1710.05096 [cs.AI]](https://arxiv.org/abs/1710.05096).
 
 ## Presentations
 
