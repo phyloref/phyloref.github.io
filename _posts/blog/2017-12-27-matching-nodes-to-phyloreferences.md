@@ -3,7 +3,7 @@ layout: post
 title: Matching nodes to phyloreferences in OWL using specifiers
 author: gaurav
 modified:
-excerpt: 
+excerpt:
 tags: ["development", "web ontology language"]
 published: true
 comments: true
@@ -24,7 +24,7 @@ While these ontologies allow us to refer to entire taxa, we can also craft OWL e
 [^mungall_et_al_2012]: Mungall *et al.* (2012) [*Uberon, an integrative multi-species anatomy ontology*](http://dx.doi.org/10.1186/gb-2012-13-1-r5) Genome Biology **13**:R5.
 
 ```
-uberon:parathyroid_gland and part_of some ncbitaxon:Xenopus 
+uberon:parathyroid_gland and part_of some ncbitaxon:Xenopus
   SubClassOf develops_from some uberon:pharyngeal_arch_3
 ```
 
@@ -51,9 +51,9 @@ This phylogeny was published in Hillis and Wilcox, 2005[^hillis_and_wilcox_2005]
 
 
 ```
-_:TaxonNameAnnotation a owl:Class; 
+_:TaxonNameAnnotation a owl:Class;
     rdfs:subClassOf cdao:TUAnnotation.
-_:SpecimenIdentifierAnnotation a owl:Class; 
+_:SpecimenIdentifierAnnotation a owl:Class;
     rdfs:subClassOf cdao:TUAnnotation.
 
 _:Node1 a cdao:Node;
@@ -94,7 +94,7 @@ _:Node1 a cdao:Node;
     dwc:genus "Rana";
     dwc:specificEpithet "zweifeli";
     dwc:scientificNameAuthorship "Hillis, Frost and Webb 1984";
-    
+
     cdao:has_External_Reference <http://purl.obolibrary.org/obo/VTO_0002750>
   ];
 
@@ -104,7 +104,7 @@ _:Node1 a cdao:Node;
     dwc:institutionCode "KU";
     dwc:catalogNumber "195310";
     dwc:locality "Mexico: Oaxaca: 1.6 mi S Cuyotepej"
-    
+
     cdao:has_External_Reference <http://portal.vertnet.org/o/ku/kuh?id=be1b5c81-b069-11e3-8cfe-90b11c41863e>
   ]
 ```
@@ -117,6 +117,8 @@ This model simplifies some complex ideas -- such as the taxonomic identification
 
  * *Where do taxonomic units fit into the Darwin-SW ontology?* This term doesn't map perfectly: taxa and taxonomic concepts are clearly a kind of *taxon*, but specimens are arguably *tokens*, linked to a taxon through an *identification*. I would argue that these distinctions are unimportant for phyloreferencing purposes: we never need to match a token to a taxon, for instance. There are two distinct classes of matches we are interested in: matching Darwin-SW taxa with each other, and matching Darwin-SW tokens with each other. We can carry out the former by comparing scientific names or using a common taxonomy, and we can carry out the latter by comparing catalog numbers or identifiers. For now, I think this degree of imprecision is acceptable for the needs of our project, but I recognize that it might need to be changed in the future.
 
+ * *Can a node sensibly represent multiple taxonomic units?* One downside to separating nodes from taxonomic units is that it becomes possible for a node to represent multiple taxonomic units. In the example above, I use this to associate a node with an ICZN name as well as a specimen, both with their own external references. This seems reasonable, but what if I associated a single node with multiple taxon names or multiple specimens? This is particularly important given the [Open-World Assumption](https://en.wikipedia.org/wiki/Open-world_assumption), under which we never know when the description of a node is "complete": new knowledge may add new taxonomic units to a node at any time. If the two taxon names appear completely different (*Rana zwefeli* vs *Rana rana*, say), am I implying they are synonymous, am I recording different identifications made at different times, or am I describing two different interpretations of a single phylogeny? At the moment, our model considers the node to represent all of these different taxonomic units separately, and will match it with a taxonomic unit representing taxon *Rana zwefeli* or specimen `KU 195310`. It can also optionally match it with a known synonym of *R. zwefeli* and with any taxon that `KU 195310` is asserted to be. This is one aspect of this model that we will need to watch closely as we increase the number of testable phyloreferences we collect, and as we try applying phyloreferences to larger phylogenies.
+
 In a fully Linked Data world, we could include additional information about the specimen, [as recorded by VertNet](http://portal.vertnet.org/o/ku/kuh?id=be1b5c81-b069-11e3-8cfe-90b11c41863e): it was collected on June 3, 1983, at 17.91 N and 97.68 W, and that it is stored as a physical specimen preserved in ethanol. We could also extract individual characters from the DNA sequence stored at [GenBank AY779219](https://www.ncbi.nlm.nih.gov/nuccore/AY779219), which we could associate with this taxonomic unit through the [*has_TU*](http://purl.obolibrary.org/obo/CDAO_0000208) property. Modeling this is beyond the scope of our project.
 
 Phyloreferences also need to contain taxonomic units that can be matched to those present in the nodes of the input phylogeny. The portability of phyloreferences depend directly on how portably these taxonomic units can be defined. Phyloreferences can be defined in terms of their specifiers: a node-based phyloreference has multiple internal specifiers that must be included in the resolved clade, for instance. Each specifier may reference one or more taxonomic units. A phyloreference could be defined in terms of its specifiers in OWL as follows[^phyloref_and_testcase_terms]:
@@ -127,7 +129,7 @@ Phyloreferences also need to contain taxonomic units that can be matched to thos
 _:Zweifelia a phyloref:Phyloreference;
   testcase:has_internal_specifier [
     a testcase:InternalSpecifier;
-    
+
     testcase:references_taxonomic_unit [
       a cdao:TU, dwc:Taxon, nomen:ScientificName;
 
@@ -140,7 +142,7 @@ _:Zweifelia a phyloref:Phyloreference;
 
     testcase:references_taxonomic_unit [
       a cdao:TU, dwc:Taxon, nomen:ScientificName;
-      
+
       dwc:scientificName "Rana tarahumarae Boulenger 1917"
     ]
   ]
