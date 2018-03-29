@@ -30,7 +30,17 @@ For this OPhyR project, we anticipated some practical challenges ahead of us. A 
 
 ## Phyloreference curation tool
 
-[I'm leaving this part to Gaurav to take the lead to write.]
+The Curation Tool has been the primary target of software development in the last few months. This tool will be used to produce Phyloreference Exchange (PHYX) files, which are [JSON-LD] files that describe phyloreferences and include annotated phylogenies against which they can be tested. These files can then be incorporated into the [ontology of phyloreferences], where they are currently continuously tested. Within the next few months, we would like to [add software support] for concatenating these PHYX files into a shareable ontology of phyloreferences.
+
+Our immediate software development goal is to provide project members with an interface they can use to curate phyloreferences into PHYX files. We walked through the [latest development version] of the Curation Tool, and identified software development tasks that needed to be carried out, grouped into Github projects as follows:
+
+1. *[Curation Tool v0.1]*: the [minimum viable product] for the Curation Tool, capable of creating, visualizing, editing and exporting PHYX files. We determined that this is largely complete, except for one important new feature -- support for renaming nodes on a phylogeny -- and additional testing to ensure that this tool is usable. We plan to reach this goal as soon as possible, ideally in the next few weeks.
+
+2. *[Estimate rate of phyloreference curation]*: as described above, our immediate priority is to provide some estimate of the rate at which phyloreferences can be curated from RegNum. As soon as Curation Tool v0.1 is complete, it can be used to curate PHYX files and a basic rate can be measured. We plan to reach this goal as soon as possible, ideally in the next few weeks.
+
+3. *[Curation Tool v0.2]*: implement basic reasoning using a Java-based server backend. This will likely be extremely slow from the user's perspective to begin with, but will allow PHYX files to be tested before they are incorporated into the ontology of phyloreferences. We plan to reach this goal in the next month or two, depending on how quickly we can meet the two previous goals.
+
+4. *[Curation Tool v1.0]*: this project collects issues that will improve the usability of the software, but are not essential to any of our goals above. We can work on these after we have successfully accomplished the previous goals. Once non-developers have used the Curation Tool, their feedback can also be used to validate and prioritize these issues. This is a long term goal, and is relatively low priority when compared to other aspects of our project.
 
 ## Use case development
 We went through an exercise to develop a use case of phyloreferencing. First of all, we clarified what is meant by "developing use cases" and how to do it. We realigned our perspectives and came to a consensus that a use case demonstrates describes a research problem that requires software or infrastructure development to answer it. Use cases are supposed to drive software development. We can’t prioritize use cases until we have them in front of us, so ideally we have a lot more than we can deal with. Large and complex use cases can start with a futuristic “user story” that takes the form of a narrative – it does not have to be formally defined, which allows us to think through it as a group before we formalize it into a use case. There should be some evidence that the use case is broadly applicable, and not only relevant or interesting to a few people. For instance, the evidence may come from a publication where somebody poses a question that needs a computational solution. A use case is not abstract: you create a real person in the narrative that wants to do something real, such as a systematist or an evolutionary biology, and you pretend that the necessary infrastructure is already there. The next step from use cases is mock-ups or feasibility studies. How do we develop a use case? A use case has prerequisites, pre-conditions, an objective, and post-conditions (how do you know that you’ve met the objective). Below we will describe the use case we developed during the meeting as a group.
@@ -50,6 +60,15 @@ To summarize, this was an important and productive meeting, which allowed us to 
 
 [agenda]: https://github.com/phyloref/organization/wiki/Third-Face-to-Face-Meeting
 [Phyloreferencing project]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1458604
-[prototype here]: http://www.ggvaidya.com/curation-tool/#
+[prototype here]: http://www.phyloref.org/curation-tool/
 [Open Tree of Life]: http://www.opentreeoflife.org
 [recent manuscript]: https://doi.org/10.1101/233973
+[JSON-LD]: https://en.wikipedia.org/wiki/JSON-LD
+[ontology of phyloreferences]: https://github.com/phyloref/curation-workflow/
+[add software support]: https://github.com/phyloref/curation-workflow/projects/3
+[latest development version]: http://www.ggvaidya.com/curation-tool/
+[Curation Tool v0.1]: https://github.com/phyloref/curation-tool/projects/1
+[minimum viable product]: https://en.wikipedia.org/wiki/Minimum_viable_product
+[Estimate rate of phyloreference curation]: https://github.com/phyloref/curation-tool/projects/4
+[Curation Tool v0.2]: https://github.com/phyloref/curation-tool/projects/2
+[Curation Tool v1.0]: https://github.com/phyloref/curation-tool/projects/3
