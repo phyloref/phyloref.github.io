@@ -15,6 +15,11 @@ image:
 
 The [Phyloreferencing project] team had their third face to face project meeting from Mar 21-23, 2018, at the UF campus in Gainesville. A day longer than previous ones, this meeting was more extensive, but we felt the extra day was necessary to accomplish our meeting goals. We had a rather long list of items on the [agenda], and it was quite a miracle that we covered nearly all them. This is a report on the four major parts that we spent our time on at the meeting: the ontology of phyloreferences, the phyloreference curation tool (see a [prototype here]), use case development, and project organization. Overall, this meeting set a clear direction for the way ahead, laid out goals, and planned tasks for the next six months.
 
+<figure>
+  <img src="{{site.url}}//images/2018-03-23-f2fmeeting/phyloref.group.2018.03.JPG" alt="Phyloreferencing team, March 2018"/>
+  <figcaption>Phyloreferencing project team met at UF campus, Gainesville from Mar 21-23, 2018. From left to right: Gaurav, Hilmar, Nico, Guanyang. </figcaption>
+</figure>
+
 ## Ontology of phyloreferences
 We will prioritize our time till up to August to work on a project to transcribe the content of the #Phylonyms: a Companion to the PhyloCode#, essentially a list of clade definitions, that is to be published as a book in the near future, into an ontology of phyloreferences. We plan to write a paper that would describe the ontology itself, how it works, and some illustrative examples as to what research questions can be answered with it. This paper will, however, not focus on the theory of phyloreferencing and its relevance in the broad biology research context. The intent is to publish this paper more or less simultaneously with the publication of the clade definition book. We discussed the outline of this paper, which would include a brief description of phyloreferencing, a list of phyloreferences in [OWL (Web Ontology Language)] format, ontology specifications, and two use cases that will illustrate the use of the ontology of phyloreferences.
 
