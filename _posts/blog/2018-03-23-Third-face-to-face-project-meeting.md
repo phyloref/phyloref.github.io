@@ -13,7 +13,7 @@ image:
   thumb: 2018-03-23-f2fmeeting/croc.JPG
 ---
 
-The [Phyloreferencing project] team had their third face to face project meeting from Mar 21-23, 2018, at the UF campus in Gainesville. A day longer than previous ones, this meeting was more extensive, but we felt the extra day was necessary to accomplish our meeting goals. We had a rather long list of items on the [agenda], and it was quite a miracle that we covered nearly all them. This is a report on the four major parts that we spent our time on at the meeting: the ontology of phyloreferences, the phyloreference curation tool (see a [prototype here]), use case development, and project organization. Overall, this meeting set a clear direction for the way ahead, laid out goals, and planned tasks for the next six months.
+The [Phyloreferencing project] team had their third face to face project meeting from Mar 21-23, 2018, at the UF campus in Gainesville. A day longer than previous ones, this meeting was more extensive, but we felt the extra day was necessary to accomplish our meeting goals. We had a rather long list of items on the [agenda], and it was quite a miracle that we covered nearly all them. This report describes four major topics of the meeting, among many issues discussed: (1) ontology of phyloreferences, (2) phyloreference curation tool (see a [prototype here]), (3) use case development, and (4) project organization. Besides, this blog also documents our discussions on some important concepts and some unresolved challlenges. Overall, this meeting set a clear direction for the way ahead, laid out goals, and planned tasks for the next six months.
 
 <figure>
   <img src="{{site.url}}//images/2018-03-23-f2fmeeting/phyloref.group.2018.03.JPG" alt="Phyloreferencing team, March 2018"/>
