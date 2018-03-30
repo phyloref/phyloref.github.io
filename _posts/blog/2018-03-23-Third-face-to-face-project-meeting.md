@@ -35,6 +35,11 @@ For this OPhyR project, we anticipated some practical challenges ahead of us. A 
 
 The Curation Tool has been the primary target of software development in the last few months. This tool will be used to produce Phyloreference Exchange (PHYX) files, which are [JSON-LD] files that describe phyloreferences and include annotated phylogenies against which they can be tested. These files can then be incorporated into the [ontology of phyloreferences], where they are currently continuously tested. Within the next few months, we would like to [add software support] for concatenating these PHYX files into a shareable ontology of phyloreferences.
 
+<figure>
+  <img src="{{site.url}}//images/2018-03-23-f2fmeeting/curation.tool.prototype.png" alt="Phyloreferencing curation tool prototype"/>
+  <figcaption>Screenshot of the interface of a Phyloreferencing Curation Tool prototype. Left: an interactive phylogeny; top right: clade definition (phyloreference) panel; bottom right: specififer boxes. </figcaption>
+</figure>
+
 Our immediate software development goal is to provide project members with an interface they can use to curate phyloreferences into PHYX files. We walked through the [latest development version] of the Curation Tool, and identified software development tasks that needed to be carried out, grouped into Github projects as follows:
 
 1. *[Curation Tool v0.1]*: the [minimum viable product] for the Curation Tool, capable of creating, visualizing, editing and exporting PHYX files. We determined that this is largely complete, except for one important new feature -- support for renaming nodes on a phylogeny -- and additional testing to ensure that this tool is usable. We plan to reach this goal as soon as possible, ideally in the next few weeks.
