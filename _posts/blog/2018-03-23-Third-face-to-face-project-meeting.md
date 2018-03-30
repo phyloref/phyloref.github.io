@@ -26,7 +26,7 @@ We came out with two meaningfully and potentially implementable use cases. The f
 
 <figure>
   <img src="{{site.url}}//images/2018-03-23-f2fmeeting/Fisher_phylogeny.png" alt="Partial phylogeny of Calymperaceae in Fisher et al. 2006"/>
-  <figcaption>Partial Partial phylogeny of Calymperaceae, on which three phylogenetic clade definitions are resolved. In this phylogeny, *Exostratum* and *Leucophanes* are disjoint and *Albifolium* includes *Exostratum* and *Leucophanes*. Redrawn from Figure 10 in Fisher et al. 2006. </figcaption>
+  <figcaption>Partial Partial phylogeny of Calymperaceae, on which three phylogenetic clade definitions are resolved. In this phylogeny, Exostratum and Leucophanes are disjoint. Albifolium includes both Exostratum and Leucophanes. Redrawn from Figure 10 in Fisher et al. 2006. </figcaption>
 </figure>
 
 The second use case of the ontology of phyloreferences (OPhyR?) is answer data-driven questions using the Open Tree of Life as a comprehensive base phylogeny. We came out with a list of questions as follows. (1) How many clades maintain their original relationships with the OToL? (2) How many clade definitions resolve to a clade on the OToL? (3) How many definitions resolve to a labeled node versus nodes without a label (name) on the OToL? (4) How many of the resolved clades are congruent with the intended clades (i.e., a clade that is anchored by specifiers on the original reference phylogeny). We felt that this kind of "big data" questions will be most useful to demonstrate the power of phyloreferencing and make a compelling case for the necessity of making clade definitions computable.
