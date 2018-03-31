@@ -13,7 +13,7 @@ image:
   thumb: 2018-03-23-f2fmeeting/croc.JPG
 ---
 
-The [Phyloreferencing project] team had their third face to face project meeting from Mar 21-23, 2018, at the UF campus in Gainesville. A day longer than previous ones, this meeting was more extensive, but we felt the extra day was necessary to accomplish our meeting goals. We had a rather long list of items on the [agenda], and it was quite a miracle that we covered nearly all of them. This report summarizes four major topics of the meeting: (1) ontology of phyloreferences, (2) phyloreference curation tool (see a [prototype here]), (3) use case development, and (4) project organization. In addition, this blog also documents our discussions of some important concepts and unresolved challlenges. Overall, this meeting set a clear direction for the way ahead, laid out goals, and planned tasks for the next six months.
+The [Phyloreferencing project] team had their third face to face project meeting from Mar 21-23, 2018, at the UF campus in Gainesville. A day longer than previous ones, this meeting was more extensive, but we felt the extra day was necessary to accomplish our meeting goals. We had a rather long list of items on the [agenda], and it was quite a miracle that we covered nearly all of them. This report summarizes four major topics of the meeting: (1) ontology of phyloreferences, (2) phyloreference curation tool, (3) use case development, and (4) specifier matching. In addition, this blog also documents our discussions of some important concepts and unresolved challlenges. Overall, this meeting set a clear direction for the way ahead, laid out goals, and planned tasks for the next six months.
 
 <figure>
   <img src="{{site.url}}//images/2018-03-23-f2fmeeting/phyloref.group.2018.03.JPG" alt="Phyloreferencing team, March 2018"/>
@@ -38,7 +38,7 @@ We will no doubt encounter major challenges in the endeavor of curating this ont
 
 ## Phyloreference curation tool
 
-The Curation Tool has been the primary target of software development in the last few months. This tool produces files in the Phyloreference Exchange (PHYX) format, which is [JSON-LD] that describes phyloreferences and includes annotated phylogenies against which they can be tested. Phyloreferences in PHYX format can then be converted to OWL for validating that they resolve, on the original reference phylogeny, to exactly the same clade intended by the author (a step we call _testing_). Next we will [add software support] for concatenating PHYX files into a shareable Ontology of Phyloreferences.
+The Curation Tool (see a [prototype here]) has been the primary target of software development in the last few months. This tool produces files in the Phyloreference Exchange (PHYX) format, which is [JSON-LD] that describes phyloreferences and includes annotated phylogenies against which they can be tested. Phyloreferences in PHYX format can then be converted to OWL for validating that they resolve, on the original reference phylogeny, to exactly the same clade intended by the author (a step we call _testing_). Next we will [add software support] for concatenating PHYX files into a shareable Ontology of Phyloreferences.
 
 <figure>
   <img src="{{site.url}}//images/2018-03-23-f2fmeeting/curation.tool.prototype.png" alt="Phyloreferencing curation tool prototype"/>
