@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Third face to face project meeting
-author: gyzhang
+title: Matching nodes to phyloreferences in OWL using specifiers
+author: gaurav
 modified:
-excerpt: A report of our third face-to-face project meeting in Gainesville from Mar 21-23, 2018.
-tags: ["development plan", "project plan", "project meeting"]
+excerpt:
+tags: ["development", "web ontology language"]
 published: true
 comments: true
 image:
-  feature: 2018-03-23-f2fmeeting/croc.JPG
-  teaser: 2018-03-23-f2fmeeting/croc.teaser.png
-  thumb: 2018-03-23-f2fmeeting/croc.JPG
+  feature: blog_post_dec2017_matching_nodes/node_matching_illustration.png
+  teaser: blog_post_dec2017_matching_nodes/node_matching_illustration.png
+  thumb: blog_post_dec2017_matching_nodes/node_matching_illustration.png
 ---
 
 The [Phyloreferencing project] team had their third face to face project meeting from Mar 21-23, 2018, at the UF campus in Gainesville. A day longer than previous ones, this meeting was more extensive, but we felt the extra day was necessary to accomplish our meeting goals. We had a rather long list of items on the [agenda], and it was quite a miracle that we covered nearly all of them. This report summarizes four major topics of the meeting: (1) ontology of phyloreferences, (2) phyloreference curation tool, (3) use case development, and (4) specifier matching. In addition, this blog also documents our discussions of some important concepts and unresolved challlenges. Overall, this meeting set a clear direction for the way ahead, laid out goals, and planned tasks for the next six months.
