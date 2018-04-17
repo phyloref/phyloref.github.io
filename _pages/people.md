@@ -36,7 +36,7 @@ ads: false
 
 ## Advisory Board
 
-* [Jim Balhoff][JPB] (RTI)
+* [Jim Balhoff][JPB] (RENCI - Renaisssance Computing Institute)
 * [David Baum][DAB] (University of Wisconsin, Madison)
 * [Holly Bik][HMB] (University of California, Riverside)
 * [Chris Mungall][CJM] (Lawrence Berkeley National Laboratory)
