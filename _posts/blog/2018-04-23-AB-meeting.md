@@ -14,12 +14,12 @@ image:
 ---
 
 Our first meeting with the [Advisory Board] (AB) took place via a conference call on Apr 23, 2018. All four project participants and six AB members attended this meeting. This was a major milestone of our project, which is about to approach the end of its first year. We have six members on the AB, whose expertise span a wide spectrum of biological and computational sciences.
-* Jim Balhoff (RENCI - Renaisssance Computing Institute), ontology developer and computational biologist
-* David Baum (University of Wisconsin, Madison), botanist and systemtic biologist
-* Holly Bik (University of California, Riverside), microbiologist, nematologist, and genomics-based biodiversity researcher
-* Chris Mungall (Lawrence Berkeley National Laboratory), ontology develper and computatioanl biologist
-* Susan Perkins (American Museum of Natural History), parasitologist, systematic biologist
-* Michael Sanderson (University of Arizona), botanist and systematic biologist
+* [Jim Balhoff] (RENCI - Renaisssance Computing Institute), ontology developer and computational biologist
+* [David Baum] (University of Wisconsin, Madison), botanist and systemtic biologist
+* [Holly Bik] (University of California, Riverside), microbiologist, nematologist, and genomics-based biodiversity researcher
+* [Chris Mungall] (Lawrence Berkeley National Laboratory), ontology develper and computatioanl biologist
+* [Susan Perkins] (American Museum of Natural History), parasitologist, systematic biologist
+* [Michael Sanderson] (University of Arizona), botanist and systematic biologist
 
 <figure>
   <img src="{{site.url}}//images/ABmeeting/ABmeetig-cover.png" alt="Phyloreferencing Advisory Board meeting"/>
@@ -30,5 +30,12 @@ We had a meeting [agenda] and were able to cover all the items on it. The confer
 
 [Advisory Board]: http://www.phyloref.org/people/
 [agenda]: https://hackmd.io/Zf4YpcTtSdK6vKE10Evcww?view#Agenda
+[Chris Mungall]: http://biosciences.lbl.gov/profiles/chris-mungall-2/
+[David Baum]: https://botany.wisc.edu/staff/baum-david/
+[Holly Bik]: https://www.hollybik.com/
+[Jim Balhoff]: https://orcid.org/0000-0002-8688-6599
+[Michael Sanderson]: https://eeb.arizona.edu/people/dr-michael-sanderson
 [Open Tree of Life]: https://tree.opentreeoflife.org
 [phylogenetic clade definitions]: ttps://en.wikipedia.org/wiki/PhyloCode#Phylogenetic_nomenclature
+[Susan Perkins]: https://www.amnh.org/our-research/staff-directory/susan-perkins/
+
