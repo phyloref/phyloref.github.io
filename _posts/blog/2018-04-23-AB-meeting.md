@@ -45,6 +45,11 @@ Next, Hilmar outlined four major deliverables of the project: (1) a specificatio
 
 David Baum asked several questions: (1) what is the difference between phyloreferencing ontology and ontology of phyloreferencing, (2) what is the relationship of the ontology of phyloreferencing to the *Regnum*, and (3) if it is true that it is not easy to extract data from the *Regnum* because is not structured. Nico and Hilmar responded to his questions. The main messages are that phyloreferencing ontology is the basis for building the ontology of phyloreferencing, and phyloreferencing does more than the phylocode/*regnum*. 
 
+<figure>
+  <img src="{{site.url}}//images/ABmeeting/ABmeeting-Baum.png" alt="Phyloreferencing curation tool interface"/>
+  <figcaption> Phyloreference curation tool interface, experimental release, available at http://www.phyloref.org/curation-tool/# </figcaption>
+</figure>
+
 Gaurav proceeded to present the phyloreference [curation tool]. The goals of creating this tool include (1) collect real-world examples of clade definitions, (2) find limits of our phyloreferencing model, and (3) test whether phyloreferences resolve as expected. There is also the question of how we make phyloreferences testable. Gaurav also provided a live demonstration of the curation tool. Then Chris Mungall and Gaurav had a brief discussion on curation time, and if the individual components of the curation tool should be provided as separate services. With this the meeting agendas were covered and it proceeded to free discussion. 
 
 <figure>
