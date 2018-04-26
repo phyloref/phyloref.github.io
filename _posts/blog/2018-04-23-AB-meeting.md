@@ -46,7 +46,7 @@ Next, Hilmar outlined four major deliverables of the project: (1) a specificatio
 David Baum asked several questions: (1) what is the difference between phyloreferencing ontology and ontology of phyloreferencing, (2) what is the relationship of the ontology of phyloreferencing to the *Regnum*, and (3) if it is true that it is not easy to extract data from the *Regnum* because is not structured. Nico and Hilmar responded to his questions. The main messages are that phyloreferencing ontology is the basis for building the ontology of phyloreferencing, and phyloreferencing does more than the phylocode/*regnum*. 
 
 <figure>
-  <img src="{{site.url}}//images/ABmeeting/ABmeeting-Baum.png" alt="Phyloreferencing curation tool interface"/>
+  <img src="{{site.url}}//images/ABmeeting/ABmeeting-Baum.png" alt="Baum asking questions about phyloreferecing roadmap and deliverables"/>
   <figcaption> Phyloreference curation tool interface, experimental release, available at http://www.phyloref.org/curation-tool/# </figcaption>
 </figure>
 
