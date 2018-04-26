@@ -47,7 +47,7 @@ David Baum asked several questions: (1) what is the difference between phylorefe
 
 <figure>
   <img src="{{site.url}}//images/ABmeeting/ABmeeting-Baum.png" alt="Baum asking questions about phyloreferecing roadmap and deliverables"/>
-  <figcaption> Phyloreference curation tool interface, experimental release, available at http://www.phyloref.org/curation-tool/# </figcaption>
+  <figcaption> David Baum asking questions about phyloreferecing roadmap and deliverables </figcaption>
 </figure>
 
 Gaurav proceeded to present the phyloreference [curation tool]. The goals of creating this tool include (1) collect real-world examples of clade definitions, (2) find limits of our phyloreferencing model, and (3) test whether phyloreferences resolve as expected. There is also the question of how we make phyloreferences testable. Gaurav also provided a live demonstration of the curation tool. Chris Mungall and Gaurav had a brief discussion on curation time, and if the individual components of the curation tool should be provided as separate services. With this the meeting agendas were fulled covered and we proceeded to free discussion. 
