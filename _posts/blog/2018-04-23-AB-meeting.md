@@ -26,6 +26,7 @@ Our first meeting with the [Advisory Board] (AB) took place via a conference cal
   <figcaption>First Phyloreferencing project Advisory Board meeting took place on Apr 23, 2018 via an online conference. Six AB members and four project participants joined the meeting. </figcaption>
 </figure>
 
+
 We had a meeting [agenda] and were able to cover all the items on it. The conference call started with an overview of the Phyloreferencing project given by Nico. She outlined three major drawbacks of using taxonomic names to reference biodiversity knowledge, namely, taxonomic names are ambiguous, names are not available for many nodes of the Tree of Life, and their concepts are not machine interpretatble. The phyloreferencing project attempts to mitigate these problems by creating a way to make [phylogenetic clade definitions] (PCD) machine readable, which we call "phyloreferencing". Nico described the three types of phylogenetic clade definitions. Mungall asked two questions about PCD - if these definitions are complete and how widely adopted they are in taxonomic databases. A brief exchange took place on these questions. 
 
 Gaurav then took the stage. He briefly described what a phyloreference is and then he presented three use cases: 
@@ -50,6 +51,7 @@ Gaurav proceeded to present the phyloreference [curation tool]. The goals of cre
   <img src="{{site.url}}//images/ABmeeting/curationtool.png" alt="Phyloreferencing curation tool interface"/>
   <figcaption> Phyloreference curation tool interface, experimental release, available at http://www.phyloref.org/curation-tool/# </figcaption>
 </figure>
+
 
 Hilmar made two remarks on the challenges ahead. A major computational challenge is specifier matching. As aforementioned, the absence of specifiers on a phylogeny will be a pervasive problem. Another challenge is developing a product that drives collaboration with trait (clade) oriented research groups. Mungall then asked about the plan to query GBIF and EOL as outlined in the grant proposal. Hilmar responded by saying “the principal idea is make large scale biodiversity data queryable using phylogenetic clade definitions/phyloreferences. None of the current data has phylogenetic querying ability. The use case that Gaurav presented on using a phyloreference to query GBIF could also be done with EOL.” Baum asked the last question, which is "Could this [the phyloreference curation tool] be made into a reverse pipeline, where you have a phyloreference anchored in the curation tool, and you could just create a clade definition entry for *Regnum*?" This was noted by Nico and Gaurav as a possiblity in future.
 
