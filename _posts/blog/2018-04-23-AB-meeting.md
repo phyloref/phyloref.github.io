@@ -36,7 +36,7 @@ We had a meeting [agenda] and were able to cover all the items on it. The confer
 
 A pratical challenge of resolving phyloreferneces is specifier matching. Specifiers used in a clade definition may not be identical to labels in a phylogeny against which a phyloreference is resolved. For example, *Homo sapiens* may be spelled as *H. sapiens* or *Homo sapiens* 12345, where the number indicates a sample number. There would be also the senario that specifiers are absent from a phylogeny, rendering a phyloreferencing unresolvable. For an in-depth description of specifier matching, please refer to a previous [blog post] written by Gaurav on this issue.
 
-Next, [Hilmar] outlined four major deliverables of the project: (1) a specification of phyloreference construction and resolution, (2) an ontology of phyloreferences, (2) a proof-of-concept application for finding, resolving and validating phyloreferences on a given tree, and (4) a web application demonstrating large-scale biodiversity data integration. Each of these will be described in the following in some detail.
+Next, [Hilmar] outlined four major deliverables of the project: (1) a [specification of phyloreference] construction and resolution, (2) an ontology of phyloreferences, (2) a proof-of-concept application for finding, resolving and validating phyloreferences on a given tree, and (4) a web application demonstrating large-scale biodiversity data integration. Each of these will be described in the following in some detail.
 
 * Phyloreferencing specification describes computational properties that a phyloreference must, should, and may have. The specification defines a data model and its semantics for phyloreferences, and recommends ontology design patterns and defines expectations.
 * Ontology of phyloreferences and phyloreferencing ontology. This is a helper/application ontology, that involves properties, classes, etc, and is needed to express phyloreferences in OWL. The phyloreferencing ontology is the basis of the next product, which is the ontology of phyloreferences. This will be a collection of published and peer-reviewed clade definitions expressed as phyloreferences in OWL.
@@ -76,5 +76,6 @@ Overall the meeting was informative and productive, and filled with positive vib
 [Nico]: https://www.floridamuseum.ufl.edu/museum-voices/nico-cellinese/
 [Open Tree of Life]: https://tree.opentreeoflife.org
 [phylogenetic clade definitions]: ttps://en.wikipedia.org/wiki/PhyloCode#Phylogenetic_nomenclature
+[specification of phyloreference]: https://github.com/phyloref/specification
 [Susan Perkins]: https://www.amnh.org/our-research/staff-directory/susan-perkins/
 
