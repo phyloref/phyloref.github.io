@@ -31,7 +31,7 @@ We had a meeting [agenda] and were able to cover all the items on it. The confer
 Gaurav then took the stage. He briefly described what a phyloreference is and then he presented three use cases: 
 * Querying GBIF using phyloreferences on the [Open Tree of Life] (OTL),
 * Quantifying the resolvability of phyloreferences (on OTL), and
-* Comparing a phyloreference on different phylogenies.
+* Comparing relationships among phyloreferences on two phylogenies.
 
 A pratical challenge of resolving phyloreferneces is specifier matching. Specifiers used in a clade definition may not be identical to labels in a phylogeny against which a phyloreference is resolved. For example, *Homo sapiens* may be spelled as *H. sapiens* or *Homo sapiens* 12345, where the number indicates a sample number. There would be also the senario that specifiers are absent from a phylogeny, rendering a phyloreferencing unresolvable. 
 
@@ -44,7 +44,12 @@ Next, Hilmar outlined four major deliverables of the project: (1) a specificatio
 
 David Baum asked several questions: (1) what is the difference between phyloreferencing ontology and ontology of phyloreferencing, (2) what is the relationship of the ontology of phyloreferencing to the *Regnum*, and (3) if it is true that it is not easy to extract data from the *Regnum* because is not structured. Nico and Hilmar responded to his questions. The main messages are that phyloreferencing ontology is the basis for building the ontology of phyloreferencing, and phyloreferencing does more than the phylocode/*regnum*. 
 
-Gaurav proceeded to present the phyloreference curation tool. The goals of creating this tool include (1) collect real-world examples of clade definitions, (2) find limits of our phyloreferencing model, and (3) test whether phyloreferences resolve as expected. There is also the question of how we make phyloreferences testable. Gaurav also provided a live demonstration of the curation tool. Then Chris Mungall and Gaurav had a brief discussion on curation time, and if the individual components of the curation tool should be provided as separate services. With this the meeting agendas were covered and it proceeded to free discussion. 
+Gaurav proceeded to present the phyloreference [curation tool]. The goals of creating this tool include (1) collect real-world examples of clade definitions, (2) find limits of our phyloreferencing model, and (3) test whether phyloreferences resolve as expected. There is also the question of how we make phyloreferences testable. Gaurav also provided a live demonstration of the curation tool. Then Chris Mungall and Gaurav had a brief discussion on curation time, and if the individual components of the curation tool should be provided as separate services. With this the meeting agendas were covered and it proceeded to free discussion. 
+
+<figure>
+  <img src="{{site.url}}//images/ABmeeting/curationtool.png" alt="Phyloreferencing curation tool interface"/>
+  <figcaption> Phyloreference curation tool interface, experimental release, available at http://www.phyloref.org/curation-tool/# </figcaption>
+</figure>
 
 Hilmar made two remarks on the challenges ahead. A major computational challenge is specifier matching. As aforementioned, the absence of specifiers on a phylogeny will be a pervasive problem. Another challenge is developing a product that drives collaboration with trait (clade) oriented research groups. Mungall then asked about the plan to query GBIF and EOL as outlined in the grant proposal. Hilmar responded by saying “the principal idea is make large scale biodiversity data queryable using phylogenetic clade definitions/phyloreferences. None of the current data has phylogenetic querying ability. The use case that Gaurav presented on using a phyloreference to query GBIF could also be done with EOL.” Baum asked the last question, which is "Could this [the phyloreference curation tool] be made into a reverse pipeline, where you have a phyloreference anchored in the curation tool, and you could just create a clade definition entry for *Regnum*?" This was noted by Nico and Gaurav as a possiblity in future.
 
@@ -53,6 +58,7 @@ Overall the meeting was informative and productive, and filled with positive vib
 [Advisory Board]: http://www.phyloref.org/people/
 [agenda]: https://hackmd.io/Zf4YpcTtSdK6vKE10Evcww?view#Agenda
 [Chris Mungall]: http://biosciences.lbl.gov/profiles/chris-mungall-2/
+[curation tool]: http://www.phyloref.org/curation-tool/
 [David Baum]: https://botany.wisc.edu/staff/baum-david/
 [Holly Bik]: https://www.hollybik.com/
 [Jim Balhoff]: https://orcid.org/0000-0002-8688-6599
