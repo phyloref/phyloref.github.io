@@ -8,9 +8,9 @@ tags: ["Advisory Board", "milestone", "project meeting"]
 published: true
 comments: true
 image:
-  feature:
-  teaser: 
-  thumb: 
+  feature: ABmeeting/ABmeeting-Baum.png
+  teaser: ABmeeting/ABmeeting-Baum.png
+  thumb: ABmeeting/ABmeeting-Baum.png
 ---
 
 Our first meeting with the [Advisory Board] (AB) took place via a conference call on Apr 23, 2018. All four project participants and six AB members attended this meeting. This was a major milestone of our project, which is about to approach the end of its first year. We have six members on the AB, whose expertise spans a wide spectrum of biological and computational sciences.
