@@ -21,6 +21,11 @@ Our first meeting with the [Advisory Board] (AB) took place via a conference cal
 * [Susan Perkins] (American Museum of Natural History), parasitologist, systematic biologist
 * [Michael Sanderson] (University of Arizona), botanist and systematic biologist
 
+<figure>
+  <img src="{{site.url}}//images/ABmeeting/ABmeetig-cover.png" alt="AB conference call screenshot"/>
+  <figcaption> Phyloreferencing project Advisory Board had their first meeting via a conference call on Apr 23, 2018 </figcaption>
+</figure>
+
 ## Phyloreferencing project: Overview, use cases, roadmap, deliverables, and curation tool 
 
 ### Overview
@@ -75,18 +80,30 @@ Gaurav proceeded to present the phyloreference [curation tool]. The goals of cre
 
 Members of the AB asked questions throughout the conference call, which we summarize in the following.
 
-Chris Mungall asked two questions about PCD - if these definitions are complete and how widely adopted they are in taxonomic databases. A brief exchange took place on these questions. Hilmar remarked that there are numerous ways how taxonomic groups are defined, and what we focus on strictly here are monophyletic groups. For that purpose, the three types of PCD are sufficient. 
+Chris Mungall asked two questions about PCD - if these definitions are complete and how widely adopted they are in taxonomic databases. A brief exchange took place on these questions. Hilmar remarked that there are numerous ways how taxonomic groups are defined, and what we focus on strictly here are monophyletic groups. For that purpose, the three types of PCD are sufficient. There is a database of PCDs, which is *Regnum*. Three hundred phylogenetic clade definitions that cover entire tree of life exist. This database is analogous to Linnaeaus’ Systema Naturae.”
 
-Chris also asked about the plan to query GBIF and EOL as outlined in the grant proposal. Hilmar responded by saying “the principal idea is make large scale biodiversity data queryable using phylogenetic clade definitions/phyloreferences. None of the current databases has phylogenetic querying ability. The use case that Gaurav presented on using a phyloreference to query GBIF could also be done with EOL.” 
+After Gaurav presented the use case on querying GBIF Chris also asked about the plan to query GBIF and EOL as outlined in the grant proposal. Hilmar responded by saying “the principal idea is make large scale biodiversity data queryable using phylogenetic clade definitions/phyloreferences. None of the current databases has phylogenetic querying ability. The use case that Gaurav presented on using a phyloreference to query GBIF could also be done with EOL.” 
 
-Chris asked about the time it takes to curate on paper. Gaurav's estimate was an hour, but it depends on familarity and other things.
+Chris asked about the time it takes to curate one paper. Gaurav's estimate was an hour, but it depends on familarity and other things.
 
-David Baum asked several questions concerning the ontology of phyloreferences: (1) what is the difference between phyloreferencing ontology and ontology of phyloreferencing, (2) what is the relationship of the ontology of phyloreferencing to the *Regnum*, and (3) how easy it is to extract data from the *Regnum*. Nico and Hilmar responded to his questions. The main messages are that phyloreferencing ontology is the basis for building the ontology of phyloreferencing, and phyloreferencing does more than the phylocode/*Regnum*. David inquired the meaning of "legal", to which Nico's answer was the following: "Any definitions need to be published. Currently, in Regnum, definitions can be entered, even if it’s not code-compliant." David also asked "could the curation tool be made into a reverse pipeline, where you have a phyloreference anchored in the curation tool, and you could just create a clade definition entry for *Regnum*?" This was noted by Nico and Gaurav as a possiblity in future.
+David Baum asked several questions concerning the ontology of phyloreferences: (1) what is the difference between phyloreferencing ontology and ontology of phyloreferencing, (2) what is the relationship of the ontology of phyloreferencing to the *Regnum*, and (3) how easy it is to extract data from the *Regnum*. Nico and Hilmar responded to his questions. The main messages are that phyloreferencing ontology is the basis for building the ontology of phyloreferencing, and phyloreferencing does more than the phylocode/*Regnum*. David inquired the meaning of "legal", to which Nico's answer was the following: "Any definitions need to be published. Currently, in *Regnum*, definitions can be entered, even if it’s not code-compliant." David also asked "could the curation tool be made into a reverse pipeline, where you have a phyloreference anchored in the curation tool, and you could just create a clade definition entry for *Regnum*?" This was noted by Nico and Gaurav as a possiblity in future.
 
 Jim Balhoff asked "can a specifier be a phyloreference?” Gaurav said, "A specifier is anything that is matchable on the phylogeny. A specifier can be defined broadly and can be a phyloreference as well." 
 
 Two questions or suggestions were brought up after the meeting via email. Michael Sanderson suggested we could test compatibility among phyloreferences on a given phylogeny. David suggested we provide a service to resolve a clade definition on the OTL and send the output to the author of the definition. These are noted and will be explored as potential use cases in future.
 
+## Advisory Board comments and questions
+**This is an alternative structure for the AB questions part, as a list of Q & A.** Only two are given for illustration purpose. If this is the preferred format, I will rewrite the AB questions part in this format. 
+* **Q.** Are the three types of phylogenetic clade definitions complete?
+
+  **A.** There could be new definitions in the future. Currently, there are numerous ways how taxonomic groups are defined. What we focus on strictly here are monophyletic groups. For that purpose, the three types of PCD are sufficient. 
+
+* **Q.** How widely adopted are PCDs in taxonomic databases? 
+
+  **A.** There is a database of PCDs, which is *Regnum*. Three hundred phylogenetic clade definitions that cover entire tree of life exist. This database is analogous to Linnaeaus’ Systema Naturae.
+
+
+##
 Overall the meeting was informative and productive, and filled with positive vibe and a fair amount of enthusiams from the AB. We are planning to have a in person AB meeting, which will afford the opportunity for more in-depth discussions and more constructive engagement in the various aspects of project development.
 
 [Advisory Board]: http://www.phyloref.org/people/
