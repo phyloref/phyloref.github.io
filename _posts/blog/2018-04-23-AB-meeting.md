@@ -13,7 +13,7 @@ image:
   thumb: ABmeeting/ABmeeting-Baum.png
 ---
 
-Our first meeting with the [Advisory Board] (AB) took place via a conference call on Apr 23, 2018. All four project participants and six AB members attended this meeting. This was a major milestone of our project, which is about to approach the end of its first year. We have six members on the AB, whose expertise spans a wide spectrum of biological and computational sciences, and they are:
+We held our first meeting with the [Advisory Board] (AB) on Apr 23, 2018, via a conference call. All four project team and six AB members were in attendance. The meeting was one of the milestones for the project's first year in full operation, which ended in April. The expertise and research interests of the members of our AB span a wide spectrum across the biological and computational sciences:
 * [Jim Balhoff] (RENCI - Renaisssance Computing Institute), ontology developer and computational biologist
 * [David Baum] (University of Wisconsin, Madison), botanist and systemtic biologist
 * [Holly Bik] (University of California, Riverside), microbiologist, nematologist, and genomics-based biodiversity researcher
@@ -21,21 +21,25 @@ Our first meeting with the [Advisory Board] (AB) took place via a conference cal
 * [Susan Perkins] (American Museum of Natural History), parasitologist, systematic biologist
 * [Michael Sanderson] (University of Arizona), botanist and systematic biologist
 
-The phyloreferencing project team gave several presentations, concerning use cases, [roadmap and deliverables], and [curation tool]. In the overview, the need for carrying out this project was stated. Three [use cases] were presented, namely (1) querying [GBIF] using phyloreferences on the [Open Tree of Life] (OTL), (2) quantifying the resolvability of phyloreferences (on OTL), and (3) comparing relationships among phyloreferences on two phylogenies. We discussed a pratical challenge of resolving phyloreferneces, i.e., specifier matching. A live [demonstration] of the phyloreference curation tool was given. Four major deliverables of the project were outlined: (1) a [specification of phyloreference] construction and resolution, (2) an ontology of phyloreferences, (2) a proof-of-concept application for finding, resolving and validating phyloreferences on a given tree, and (4) a web application demonstrating large-scale biodiversity data integration.
+The main goal of the meeting was to introduce the AB to our project, including its major motivations, deliverables, and challenges, and to highlight where we're currently at, as well as what we're planning to do over the coming 12-18 months. Our other goal was to elicit feedback that would indicate where we might be missing opportunities, heading in a wrong direction, and where how we name and communicate what we do might cause confusion.
 
-Members of the AB asked questions throughout the conference call. Most of these questions were follow-ups on the presentations, while others were high-level, big picture questions. More specificallly, questions were asked on the following issues: (1) if the three types of [phylogenetic clade definitions] were adequate and if they are widely used in databases, (2) plans to perform data integration with GBIF and EOL, (3) curation time investment, (4) the relationship between the ontology of phyloreferences (which we know call clade ontology) and the [*RegNum*], and (5) the data structure of the *RegNum*. Two questions or suggestions were brought up after the meeting via emails, one on the compatibility among phyloreferences on a given phylogeny, and another on querying a clade definition on the OTL.
+After summarizing the [theoretical backgroun][phylogenetic clade definitions] and major motivations of our project, we walked the AB through three [major use cases] (which are at this point "only" aspirational):
+1. querying [GBIF] using phyloreferences on the [Open Tree of Life] (OTL), 
+2. quantifying the resolvability of phyloreferences (on OTL), and
+3. comparing relationships among phyloreferences on two phylogenies.
 
-We felt the most significant challenges facing us are mainly (1) an algorithmic method for matchinng specififiers and dealing with missing specifiers, (2) use case and tech development for a large-scale data integration application, and (3) engagement with trait (clade) oriented community and research groups. These issues will be of high priority for the next phase of the project.
+In the remaining part, we explained [roadmap and deliverables], followed by demonstrating, as our first significant software product nearing its initial release, the [curation tool]. Going forward, we explained what we perceive as the biggest challenges facing us, namely (1) an algorithmic method for matching specififiers and dealing with missing specifiers with sufficient sophistication, (2) use case and technology development for a large-scale data integration application, and (3) engagement with the clade-oriented trait evolution and trait biodiversity research community.
 
-Overall the meeting was informative and productive, and filled with positive vibe and a fair amount of enthusiams from the AB. We are planning to have a in person AB meeting, which will afford the opportunity for more in-depth discussions and more constructive engagement in the various aspects of project development.
+Overall the meeting was very successful and productive, as measured by the feedback and thoughts that the AB volunteered. Members of the AB asked questions throughout, including high-level, big picture questions, and shared greatly valuable suggestions afterwards in email. The feedback gave us a lot to think about and to consider how we can best act on the ideas, including particular opportunities for engaging the authors of published clade definitions with our work, and opportunities for better synergizing with the [*RegNum*] database. One piece of feedback has already led to action. We decided to clarify how we name and thus refer to one of our next major product milestones: what we used to call the _Ontology of Phyloreferences_ (prompting confusion with the Phyloreferencing Ontology, occasionally even amongst ourselves) is now the _Ontology of Phylogenetic Clade Definitions_ (because that's what it really is meant to be), or the Clade Ontology in short (leading to `CLADEONT` as an appealing candidate for the identifier prefix for terms in the ontology).
 
-[Advisory Board]: http://www.phyloref.org/people/
+We're now looking forward to our next meeting with the AB, which we plan to hold in about a year (i.e., about one year prior to the anticipated end of funding from the current grant) as an in-person face-to-face meeting, to facilitate more in-depth discussion and brainstorming.
+
+[Advisory Board]: http://www.phyloref.org/people/#advisory-board
 [agenda]: https://hackmd.io/Zf4YpcTtSdK6vKE10Evcww?view#Agenda
 [blog post]: http://www.phyloref.org/blog/2018/01/matching-nodes-to-phyloreferences/
 [Chris Mungall]: http://biosciences.lbl.gov/profiles/chris-mungall-2/
 [curation tool]: http://www.phyloref.org/curation-tool/
 [David Baum]: https://botany.wisc.edu/staff/baum-david/
-[demonstration]: http://www.ggvaidya.com/curation-tool/
 [GBIF]: gbif.org
 [Holly Bik]: https://www.hollybik.com/
 [Jim Balhoff]: https://orcid.org/0000-0002-8688-6599
@@ -46,5 +50,4 @@ Overall the meeting was informative and productive, and filled with positive vib
 [roadmap and deliverables]: https://hackmd.io/p/H1kNW2Vnz#/
 [specification of phyloreference]: https://github.com/phyloref/specification
 [Susan Perkins]: https://www.amnh.org/our-research/staff-directory/susan-perkins/
-[use cases]: https://hackmd.io/39c0gFdHSfWSTsEcXhfutg?view
-
+[major use cases]: https://hackmd.io/39c0gFdHSfWSTsEcXhfutg?view
