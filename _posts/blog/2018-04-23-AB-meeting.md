@@ -9,8 +9,8 @@ published: true
 comments: true
 image:
   feature: ABmeeting/roadmap.png
-  teaser: ABmeeting/roadmap.png
-  thumb: ABmeeting/roadmap.png
+  teaser: ABmeeting/roadmap.teaser.png
+  thumb: ABmeeting/roadmap.teaser.png
 ---
 
 We held our first meeting with the [Advisory Board] (AB) on Apr 23, 2018, via a conference call. All four project team and six AB members were in attendance. The meeting was one of the milestones for the project's first year in full operation, which ended in April. The expertise and research interests of the members of our AB span a wide spectrum across the biological and computational sciences:
