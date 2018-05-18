@@ -6,7 +6,7 @@ logo: logo/Phyloref-logo-120px.png # 120x120 px default image used for Twitter s
 teaser: logo/Phyloref-logo-400x250px.png # 400x250 px default teaser image used in image archive grid
 icon: favicon.ico
 locale: en
-url: http://www.phyloref.org
+url: https://www.phyloref.org
 feed:
   path: atom.xml
 
