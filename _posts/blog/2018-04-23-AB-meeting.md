@@ -36,7 +36,7 @@ We're now looking forward to our next meeting with the AB, which we plan to hold
 
 [Advisory Board]: http://www.phyloref.org/people/#advisory-board
 [agenda]: https://hackmd.io/Zf4YpcTtSdK6vKE10Evcww?view#Agenda
-[blog post]: http://www.phyloref.org/blog/2018/01/matching-nodes-to-phyloreferences/
+[blog post]: {% post_url /blog/2018-01-29-matching-nodes-to-phyloreferences %}
 [Chris Mungall]: http://biosciences.lbl.gov/profiles/chris-mungall-2/
 [curation tool]: http://www.phyloref.org/curation-tool/
 [David Baum]: https://botany.wisc.edu/staff/baum-david/
