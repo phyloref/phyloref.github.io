@@ -15,6 +15,7 @@ ads: false
 ## Software
 
 * [Phyloreference Curation Tool](https://github.com/phyloref/curation-tool/): Web-based tool for curating published phylogenetic clade definitions to phyloreference expressions.
+* [phyx.js](https://www.npmjs.com/package/@phyloref/phyx): Javascript library for manipulating Phyx files.
 * [phylo2owl](https://github.com/phyloref/phylo2owl): Tool to convert phylogenies to OWL ontologies.
 
 ## Publications
