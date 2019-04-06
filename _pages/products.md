@@ -27,6 +27,7 @@ ads: false
   Conference, ISWC2017, Vienna, Austria, October 2017. <http://ceur-ws.org/Vol-2043/>. Also on arXiv, [arXiv:1710.05096 [cs.AI]](https://arxiv.org/abs/1710.05096).
 
 ## Presentations and posters
+* Lapp H (2019) "[Of Trees and Owl: The challenges of reasoning over the semantics of shared descent](https://www.slideshare.net/hlapp/of-trees-and-owl-the-challenges-of-reasoning-over-the-semantics-of-shared-descent/hlapp/of-trees-and-owl-the-challenges-of-reasoning-over-the-semantics-of-shared-descent)." Presentation at [US2TS 2019], Durham, NC.
 * Vaidya G, Lapp H, Cellinese N (2019) "[Building an ontology of logic definitions for groups of biological organisms to enable data integration](http://doi.org/10.6084/m9.figshare.7904999)." Poster at US2TS, Durham NC.
 * Vaidya G, Lapp H, Cellinese N (2018) "[All the Clades in the World: Building a Semantically-Rich and Testable Ontology of Phylogenetic Clade Definitions](https://doi.org/10.3897/biss.2.25776)." Presentation at TDWG 2018, Dunedin, New Zealand. ([slides](https://speakerdeck.com/gaurav/all-the-clades-in-the-world-building-a-semantically-rich-and-testable-ontology-of-phylogenetic-clade-definitions))
 * Vaidya G, Lapp H, Cellinese N (2016) "[Creating computable definitions for clades using the Web Ontology Language (OWL)](https://speakerdeck.com/gaurav/creating-computable-definitions-for-clades-using-the-web-ontology-language-owl)."  
@@ -44,3 +45,4 @@ ads: false
   in Nairobi, Kenya.
 
 [Final Phenotype RCN Summit]: http://www.phenotypercn.org/?p=2782
+[US2TS 2019]: http://us2ts.org/2019
