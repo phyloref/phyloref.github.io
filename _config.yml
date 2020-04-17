@@ -49,6 +49,7 @@ owner:
 include:
   - .htaccess
   - _pages
+  - .well-known
 exclude:
   - "*.less"
   - "*.sublime-project"
