@@ -20,6 +20,12 @@ ads: false
 
 ## Publications
 
+* Cellinese, N., Conix, S., Lapp, H. (2022). “Phyloreferences: Tree-Native, Reproducible, and Machine-Interpretable Taxon Concepts”,
+  Philosophy, Theory, and Practice in Biology 14: 7. doi: <https://doi.org/10.3998/ptpbio.2101>
+* Vaidya G., Cellinese N., Lapp H. (2021). JPhyloRef: a tool for testing and resolving phyloreferences.
+  Journal of Open Source Software, 6(64), 3374, https://doi.org/10.21105/joss.03374
+* Eberhart A., Carral D., Hitzler P., Lapp H., Rudolph S. [Seed Patterns for Modeling Trees](https://daselab.cs.ksu.edu/sites/default/files/Seed_Patterns_for_Modeling_Trees.pdf).
+  In: _Advances in Pattern-Based Ontology Engineering._ IOS Press; 2021. pp. 48–67.
 * David Carral, Pascal Hitzler, Hilmar Lapp, Sebastian
   Rudolph. [On the Ontological Modeling of Trees](http://ceur-ws.org/Vol-2043/paper-01.pdf). In:
   Proceedings of the 8th Workshop on Ontology Design and Patterns, WOP
