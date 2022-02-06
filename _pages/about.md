@@ -53,6 +53,11 @@ ontology-based references to elements on the Tree of Life that are
 unambiguous and the semantics of which are amenable to powerful
 machine reasoning, making clade definitions fully computable.
 
+A fuller account of the rationale and arguments for phyloreferencing
+can be found in Cellinese et al. (2022) “[Phyloreferences:
+Tree-Native, Reproducible, and Machine-Interpretable Taxon Concepts](https://doi.org/10.3998/ptpbio.2101)”,
+Philosophy, Theory, and Practice in Biology **14**:7.
+
 ## History
 
 The roots of Phyloreferencing as an idea go back to a [group of
