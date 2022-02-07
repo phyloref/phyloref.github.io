@@ -33,6 +33,10 @@ ads: false
   Conference, ISWC2017, Vienna, Austria, October 2017. <http://ceur-ws.org/Vol-2043/>. Also on arXiv, [arXiv:1710.05096 [cs.AI]](https://arxiv.org/abs/1710.05096).
 
 ## Presentations and posters
+* Cellinese, Vaidya, Lapp (2021) Life in the digital world: a journey from RegNum to phyloreferences.
+  Presentation at the Botanical Society of America Meeting (virtual).
+* Cellinese & Vaidya (2019) All the clades in the world: how to navigate in tree space.
+  Presentation and Workshop at the Systematic Biology Meeting, Gainesville, FL.
 * Lapp H (2019) "[Of Trees and Owl: The challenges of reasoning over the semantics of shared descent](https://www.slideshare.net/hlapp/of-trees-and-owl-the-challenges-of-reasoning-over-the-semantics-of-shared-descent/hlapp/of-trees-and-owl-the-challenges-of-reasoning-over-the-semantics-of-shared-descent)." Presentation at [US2TS 2019], Durham, NC.
 * Vaidya G, Lapp H, Cellinese N (2019) "[Building an ontology of logic definitions for groups of biological organisms to enable data integration](http://doi.org/10.6084/m9.figshare.7904999)." Poster at [US2TS 2019], Durham, NC.
 * Vaidya G, Lapp H, Cellinese N (2018) "[All the Clades in the World: Building a Semantically-Rich and Testable Ontology of Phylogenetic Clade Definitions](https://doi.org/10.3897/biss.2.25776)." Presentation at TDWG 2018, Dunedin, New Zealand. ([slides](https://speakerdeck.com/gaurav/all-the-clades-in-the-world-building-a-semantically-rich-and-testable-ontology-of-phylogenetic-clade-definitions))
