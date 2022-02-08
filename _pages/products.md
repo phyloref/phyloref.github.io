@@ -35,6 +35,8 @@ ads: false
 ## Presentations and posters
 * Cellinese, Vaidya, Lapp (2021) Life in the digital world: a journey from RegNum to phyloreferences.
   Presentation at the Botanical Society of America Meeting (virtual).
+* Vaidya, Lapp, Cellinese (2020) "[Enabling Machines to Integrate Biodiversity Data with Evolutionary Knowledge](https://biss.pensoft.net/article/59088/)."
+  Presentation at TDWG 2020 (virtual).
 * Cellinese & Vaidya (2019) All the clades in the world: how to navigate in tree space.
   Presentation and Workshop at the Systematic Biology Meeting, Gainesville, FL.
 * Lapp H (2019) "[Of Trees and Owl: The challenges of reasoning over the semantics of shared descent](https://www.slideshare.net/hlapp/of-trees-and-owl-the-challenges-of-reasoning-over-the-semantics-of-shared-descent/hlapp/of-trees-and-owl-the-challenges-of-reasoning-over-the-semantics-of-shared-descent)." Presentation at [US2TS 2019], Durham, NC.
