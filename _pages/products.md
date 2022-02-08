@@ -23,7 +23,7 @@ ads: false
 * Cellinese, N., Conix, S., Lapp, H. (2022). “Phyloreferences: Tree-Native, Reproducible, and Machine-Interpretable Taxon Concepts”,
   Philosophy, Theory, and Practice in Biology 14: 7. doi: <https://doi.org/10.3998/ptpbio.2101>
 * Vaidya G., Cellinese N., Lapp H. (2021). JPhyloRef: a tool for testing and resolving phyloreferences.
-  Journal of Open Source Software, 6(64), 3374, https://doi.org/10.21105/joss.03374
+  Journal of Open Source Software, 6(64), 3374, <https://doi.org/10.21105/joss.03374>
 * Eberhart A., Carral D., Hitzler P., Lapp H., Rudolph S. [Seed Patterns for Modeling Trees](https://daselab.cs.ksu.edu/sites/default/files/Seed_Patterns_for_Modeling_Trees.pdf).
   In: _Advances in Pattern-Based Ontology Engineering._ IOS Press; 2021. pp. 48–67.
 * David Carral, Pascal Hitzler, Hilmar Lapp, Sebastian
@@ -35,6 +35,8 @@ ads: false
 ## Presentations and posters
 * Cellinese, Vaidya, Lapp (2021) Life in the digital world: a journey from RegNum to phyloreferences.
   Presentation at the Botanical Society of America Meeting (virtual).
+* Vaidya, Lapp, Cellinese (2020) "[Enabling Machines to Integrate Biodiversity Data with Evolutionary Knowledge](https://biss.pensoft.net/article/59088/)."
+  Presentation at TDWG 2020 (virtual).
 * Cellinese & Vaidya (2019) All the clades in the world: how to navigate in tree space.
   Presentation and Workshop at the Systematic Biology Meeting, Gainesville, FL.
 * Lapp H (2019) "[Of Trees and Owl: The challenges of reasoning over the semantics of shared descent](https://www.slideshare.net/hlapp/of-trees-and-owl-the-challenges-of-reasoning-over-the-semantics-of-shared-descent/hlapp/of-trees-and-owl-the-challenges-of-reasoning-over-the-semantics-of-shared-descent)." Presentation at [US2TS 2019], Durham, NC.
