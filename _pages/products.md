@@ -20,6 +20,8 @@ ads: false
 
 ## Publications
 
+* Vaidya G, Cellinese N, Lapp H. (2022). A new phylogenetic data standard for computable clade definitions: the Phyloreference Exchange Format (Phyx).
+  PeerJ 10:e12618 doi: <https://doi.org/10.7717/peerj.12618>
 * Cellinese, N., Conix, S., Lapp, H. (2022). “Phyloreferences: Tree-Native, Reproducible, and Machine-Interpretable Taxon Concepts”,
   Philosophy, Theory, and Practice in Biology 14: 7. doi: <https://doi.org/10.3998/ptpbio.2101>
 * Vaidya G., Cellinese N., Lapp H. (2021). JPhyloRef: a tool for testing and resolving phyloreferences.
